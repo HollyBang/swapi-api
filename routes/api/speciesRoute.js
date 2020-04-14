@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 
-const species = require('../starData/newSpecies.js');
+const species = require('../../starData/newSpecies.js');
 
 router.get('/species', (req, res) => {
   res.send(species);

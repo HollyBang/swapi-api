@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 
-const films = require('../starData/newFilms.js');
+const films = require('../../starData/newFilms.js');
 
 
 router.get('/films', (req, res) => {

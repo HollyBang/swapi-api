@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 
-const starships = require('../starData/newStarships.js');
+const starships = require('../../starData/newStarships.js');
 
 router.get('/starships', (req, res) => {
   res.send(starships);
