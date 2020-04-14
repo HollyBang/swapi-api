@@ -14,12 +14,12 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "created": "2014-12-10T15:36:25.724000Z",
     "edited": "2014-12-22T18:21:15.523587Z",
-    "url": "http://swapi.co/api/vehicles/4/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/4/",
     "id": 4
   },
   {
@@ -37,11 +37,11 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "created": "2014-12-10T16:01:52.434000Z",
     "edited": "2014-12-22T18:21:15.552614Z",
-    "url": "http://swapi.co/api/vehicles/6/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/6/",
     "id": 6
   },
   {
@@ -59,11 +59,11 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "created": "2014-12-10T16:13:52.586000Z",
     "edited": "2014-12-22T18:21:15.583700Z",
-    "url": "http://swapi.co/api/vehicles/7/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/7/",
     "id": 7
   },
   {
@@ -81,13 +81,13 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/",
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/",
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "created": "2014-12-10T16:33:52.860000Z",
     "edited": "2014-12-22T18:21:15.606149Z",
-    "url": "http://swapi.co/api/vehicles/8/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/8/",
     "id": 8
   },
   {
@@ -103,15 +103,15 @@ const vehicles = [
     "consumables": "none",
     "vehicle_class": "airspeeder",
     "pilots": [
-      "http://swapi.co/api/people/1/",
-      "http://swapi.co/api/people/18/"
+      "https://swapiapi.herokuapp.com/api/people/1/",
+      "https://swapiapi.herokuapp.com/api/people/18/"
     ],
     "films": [
-      "http://swapi.co/api/films/2/"
+      "https://swapiapi.herokuapp.com/api/films/2/"
     ],
     "created": "2014-12-15T12:22:12Z",
     "edited": "2014-12-22T18:21:15.623033Z",
-    "url": "http://swapi.co/api/vehicles/14/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/14/",
     "id": 14
   },
   {
@@ -129,12 +129,12 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/"
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/"
     ],
     "created": "2014-12-15T12:33:15.838000Z",
     "edited": "2014-12-22T18:21:15.667730Z",
-    "url": "http://swapi.co/api/vehicles/16/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/16/",
     "id": 16
   },
   {
@@ -152,12 +152,12 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/"
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/"
     ],
     "created": "2014-12-15T12:38:25.937000Z",
     "edited": "2014-12-22T18:21:15.714673Z",
-    "url": "http://swapi.co/api/vehicles/18/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/18/",
     "id": 18
   },
   {
@@ -173,15 +173,15 @@ const vehicles = [
     "consumables": "none",
     "vehicle_class": "walker",
     "pilots": [
-      "http://swapi.co/api/people/13/"
+      "https://swapiapi.herokuapp.com/api/people/13/"
     ],
     "films": [
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/"
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/"
     ],
     "created": "2014-12-15T12:46:42.384000Z",
     "edited": "2014-12-22T18:21:15.761584Z",
-    "url": "http://swapi.co/api/vehicles/19/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/19/",
     "id": 19
   },
   {
@@ -199,11 +199,11 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/2/"
+      "https://swapiapi.herokuapp.com/api/films/2/"
     ],
     "created": "2014-12-15T12:58:50.530000Z",
     "edited": "2014-12-22T18:21:15.783232Z",
-    "url": "http://swapi.co/api/vehicles/20/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/20/",
     "id": 20
   },
   {
@@ -221,11 +221,11 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/3/"
+      "https://swapiapi.herokuapp.com/api/films/3/"
     ],
     "created": "2014-12-18T10:44:14.217000Z",
     "edited": "2014-12-22T18:21:15.807906Z",
-    "url": "http://swapi.co/api/vehicles/24/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/24/",
     "id": 24
   },
   {
@@ -243,11 +243,11 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/3/"
+      "https://swapiapi.herokuapp.com/api/films/3/"
     ],
     "created": "2014-12-18T10:48:03.208000Z",
     "edited": "2014-12-22T18:21:15.845988Z",
-    "url": "http://swapi.co/api/vehicles/25/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/25/",
     "id": 25
   },
   {
@@ -265,11 +265,11 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/3/"
+      "https://swapiapi.herokuapp.com/api/films/3/"
     ],
     "created": "2014-12-18T10:50:28.225000Z",
     "edited": "2014-12-22T18:21:15.882388Z",
-    "url": "http://swapi.co/api/vehicles/26/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/26/",
     "id": 26
   },
   {
@@ -285,15 +285,15 @@ const vehicles = [
     "consumables": "1 day",
     "vehicle_class": "speeder",
     "pilots": [
-      "http://swapi.co/api/people/1/",
-      "http://swapi.co/api/people/5/"
+      "https://swapiapi.herokuapp.com/api/people/1/",
+      "https://swapiapi.herokuapp.com/api/people/5/"
     ],
     "films": [
-      "http://swapi.co/api/films/3/"
+      "https://swapiapi.herokuapp.com/api/films/3/"
     ],
     "created": "2014-12-18T11:20:04.625000Z",
     "edited": "2014-12-22T18:21:15.920537Z",
-    "url": "http://swapi.co/api/vehicles/30/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/30/",
     "id": 30
   },
   {
@@ -311,12 +311,12 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/4/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/4/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-19T17:09:53.584000Z",
     "edited": "2014-12-22T18:21:15.953870Z",
-    "url": "http://swapi.co/api/vehicles/33/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/33/",
     "id": 33
   },
   {
@@ -334,11 +334,11 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "created": "2014-12-19T17:12:04.400000Z",
     "edited": "2014-12-22T18:21:15.975171Z",
-    "url": "http://swapi.co/api/vehicles/34/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/34/",
     "id": 34
   },
   {
@@ -356,11 +356,11 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "created": "2014-12-19T17:13:29.799000Z",
     "edited": "2014-12-22T18:21:15.984817Z",
-    "url": "http://swapi.co/api/vehicles/35/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/35/",
     "id": 35
   },
   {
@@ -378,11 +378,11 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "created": "2014-12-19T17:15:09.511000Z",
     "edited": "2014-12-22T18:21:16.008594Z",
-    "url": "http://swapi.co/api/vehicles/36/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/36/",
     "id": 36
   },
   {
@@ -400,11 +400,11 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "created": "2014-12-19T17:20:36.373000Z",
     "edited": "2014-12-22T18:21:16.033738Z",
-    "url": "http://swapi.co/api/vehicles/37/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/37/",
     "id": 37
   },
   {
@@ -420,15 +420,15 @@ const vehicles = [
     "consumables": "unknown",
     "vehicle_class": "submarine",
     "pilots": [
-      "http://swapi.co/api/people/10/",
-      "http://swapi.co/api/people/32/"
+      "https://swapiapi.herokuapp.com/api/people/10/",
+      "https://swapiapi.herokuapp.com/api/people/32/"
     ],
     "films": [
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "created": "2014-12-19T17:37:37.924000Z",
     "edited": "2014-12-22T18:21:16.072083Z",
-    "url": "http://swapi.co/api/vehicles/38/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/38/",
     "id": 38
   },
   {
@@ -444,14 +444,14 @@ const vehicles = [
     "consumables": "unknown",
     "vehicle_class": "speeder",
     "pilots": [
-      "http://swapi.co/api/people/44/"
+      "https://swapiapi.herokuapp.com/api/people/44/"
     ],
     "films": [
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "created": "2014-12-20T10:09:56.095000Z",
     "edited": "2014-12-22T18:21:16.095041Z",
-    "url": "http://swapi.co/api/vehicles/42/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/42/",
     "id": 42
   },
   {
@@ -467,14 +467,14 @@ const vehicles = [
     "consumables": "none",
     "vehicle_class": "repulsorcraft",
     "pilots": [
-      "http://swapi.co/api/people/11/"
+      "https://swapiapi.herokuapp.com/api/people/11/"
     ],
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "created": "2014-12-20T16:24:16.026000Z",
     "edited": "2014-12-22T18:21:16.117652Z",
-    "url": "http://swapi.co/api/vehicles/44/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/44/",
     "id": 44
   },
   {
@@ -490,14 +490,14 @@ const vehicles = [
     "consumables": "unknown",
     "vehicle_class": "airspeeder",
     "pilots": [
-      "http://swapi.co/api/people/70/"
+      "https://swapiapi.herokuapp.com/api/people/70/"
     ],
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "created": "2014-12-20T17:17:33.526000Z",
     "edited": "2014-12-22T18:21:16.140018Z",
-    "url": "http://swapi.co/api/vehicles/45/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/45/",
     "id": 45
   },
   {
@@ -513,14 +513,14 @@ const vehicles = [
     "consumables": "unknown",
     "vehicle_class": "airspeeder",
     "pilots": [
-      "http://swapi.co/api/people/11/"
+      "https://swapiapi.herokuapp.com/api/people/11/"
     ],
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "created": "2014-12-20T17:19:19.991000Z",
     "edited": "2014-12-22T18:21:16.150194Z",
-    "url": "http://swapi.co/api/vehicles/46/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/46/",
     "id": 46
   },
   {
@@ -538,12 +538,12 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-20T18:01:21.014000Z",
     "edited": "2014-12-22T18:21:16.181363Z",
-    "url": "http://swapi.co/api/vehicles/50/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/50/",
     "id": 50
   },
   {
@@ -561,11 +561,11 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "created": "2014-12-20T18:02:46.802000Z",
     "edited": "2014-12-22T18:21:16.229733Z",
-    "url": "http://swapi.co/api/vehicles/51/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/51/",
     "id": 51
   },
   {
@@ -581,14 +581,14 @@ const vehicles = [
     "consumables": "none",
     "vehicle_class": "wheeled walker",
     "pilots": [
-      "http://swapi.co/api/people/79/"
+      "https://swapiapi.herokuapp.com/api/people/79/"
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-20T19:43:54.870000Z",
     "edited": "2014-12-22T18:21:16.422662Z",
-    "url": "http://swapi.co/api/vehicles/60/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/60/",
     "id": 60
   },
   {
@@ -606,11 +606,11 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-20T19:50:58.559000Z",
     "edited": "2014-12-22T18:21:16.450655Z",
-    "url": "http://swapi.co/api/vehicles/62/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/62/",
     "id": 62
   },
   {
@@ -628,11 +628,11 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-20T20:05:19.992000Z",
     "edited": "2014-12-22T18:21:16.478901Z",
-    "url": "http://swapi.co/api/vehicles/67/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/67/",
     "id": 67
   },
   {
@@ -650,11 +650,11 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-20T20:20:53.931000Z",
     "edited": "2014-12-22T18:21:16.517049Z",
-    "url": "http://swapi.co/api/vehicles/69/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/69/",
     "id": 69
   },
   {
@@ -672,11 +672,11 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-20T20:21:55.648000Z",
     "edited": "2014-12-22T18:21:16.547708Z",
-    "url": "http://swapi.co/api/vehicles/70/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/70/",
     "id": 70
   },
   {
@@ -694,11 +694,11 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-20T20:24:45.587000Z",
     "edited": "2014-12-22T18:21:16.571079Z",
-    "url": "http://swapi.co/api/vehicles/71/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/71/",
     "id": 71
   },
   {
@@ -716,11 +716,11 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-20T20:26:55.522000Z",
     "edited": "2014-12-22T18:21:16.612902Z",
-    "url": "http://swapi.co/api/vehicles/72/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/72/",
     "id": 72
   },
   {
@@ -738,11 +738,11 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-20T20:32:05.687000Z",
     "edited": "2014-12-22T18:21:16.643329Z",
-    "url": "http://swapi.co/api/vehicles/73/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/73/",
     "id": 73
   },
   {
@@ -760,11 +760,11 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-20T20:47:49.189000Z",
     "edited": "2014-12-22T18:21:16.672821Z",
-    "url": "http://swapi.co/api/vehicles/76/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/76/",
     "id": 76
   },
   {
@@ -782,12 +782,12 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-20T18:10:07.560000Z",
     "edited": "2014-12-22T18:21:16.293771Z",
-    "url": "http://swapi.co/api/vehicles/53/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/53/",
     "id": 53
   },
   {
@@ -805,11 +805,11 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "created": "2014-12-20T18:12:32.315000Z",
     "edited": "2014-12-22T18:21:16.311761Z",
-    "url": "http://swapi.co/api/vehicles/54/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/54/",
     "id": 54
   },
   {
@@ -825,14 +825,14 @@ const vehicles = [
     "consumables": "unknown",
     "vehicle_class": "speeder",
     "pilots": [
-      "http://swapi.co/api/people/67/"
+      "https://swapiapi.herokuapp.com/api/people/67/"
     ],
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "created": "2014-12-20T18:15:20.312000Z",
     "edited": "2014-12-22T18:21:16.335005Z",
-    "url": "http://swapi.co/api/vehicles/55/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/55/",
     "id": 55
   },
   {
@@ -850,12 +850,12 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-20T18:25:44.912000Z",
     "edited": "2014-12-22T18:21:16.366134Z",
-    "url": "http://swapi.co/api/vehicles/56/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/56/",
     "id": 56
   },
   {
@@ -873,11 +873,11 @@ const vehicles = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "created": "2014-12-20T18:34:12.541000Z",
     "edited": "2014-12-22T18:21:16.390980Z",
-    "url": "http://swapi.co/api/vehicles/57/",
+    "url": "https://swapiapi.herokuapp.com/api/vehicles/57/",
     "id": 57
   }
 ]

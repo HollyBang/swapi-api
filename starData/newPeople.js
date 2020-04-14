@@ -8,28 +8,28 @@ const people = [
     "eye_color": "blue",
     "birth_year": "19BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/1/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/1/",
     "films": [
-      "http://swapi.co/api/films/6/",
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/",
-      "http://swapi.co/api/films/1/",
-      "http://swapi.co/api/films/7/"
+      "https://swapiapi.herokuapp.com/api/films/6/",
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/",
+      "https://swapiapi.herokuapp.com/api/films/1/",
+      "https://swapiapi.herokuapp.com/api/films/7/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
-      "http://swapi.co/api/vehicles/14/",
-      "http://swapi.co/api/vehicles/30/"
+      "https://swapiapi.herokuapp.com/api/vehicles/14/",
+      "https://swapiapi.herokuapp.com/api/vehicles/30/"
     ],
     "starships": [
-      "http://swapi.co/api/starships/12/",
-      "http://swapi.co/api/starships/22/"
+      "https://swapiapi.herokuapp.com/api/starships/12/",
+      "https://swapiapi.herokuapp.com/api/starships/22/"
     ],
     "created": "2014-12-09T13:50:51.644000Z",
     "edited": "2014-12-20T21:17:56.891000Z",
-    "url": "http://swapi.co/api/people/1/",
+    "url": "https://swapiapi.herokuapp.com/api/people/1/",
     "id": 1
   },
   {
@@ -41,17 +41,17 @@ const people = [
     "eye_color": "yellow",
     "birth_year": "112BBY",
     "gender": "n/a",
-    "homeworld": "http://swapi.co/api/planets/1/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/1/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/4/",
-      "http://swapi.co/api/films/6/",
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/",
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/4/",
+      "https://swapiapi.herokuapp.com/api/films/6/",
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/",
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "species": [
-      "http://swapi.co/api/species/2/"
+      "https://swapiapi.herokuapp.com/api/species/2/"
     ],
     "vehicles": [
     ],
@@ -59,7 +59,7 @@ const people = [
     ],
     "created": "2014-12-10T15:10:51.357000Z",
     "edited": "2014-12-20T21:17:50.309000Z",
-    "url": "http://swapi.co/api/people/2/",
+    "url": "https://swapiapi.herokuapp.com/api/people/2/",
     "id": 2
   },
   {
@@ -71,18 +71,18 @@ const people = [
     "eye_color": "red",
     "birth_year": "33BBY",
     "gender": "n/a",
-    "homeworld": "http://swapi.co/api/planets/8/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/8/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/4/",
-      "http://swapi.co/api/films/6/",
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/",
-      "http://swapi.co/api/films/1/",
-      "http://swapi.co/api/films/7/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/4/",
+      "https://swapiapi.herokuapp.com/api/films/6/",
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/",
+      "https://swapiapi.herokuapp.com/api/films/1/",
+      "https://swapiapi.herokuapp.com/api/films/7/"
     ],
     "species": [
-      "http://swapi.co/api/species/2/"
+      "https://swapiapi.herokuapp.com/api/species/2/"
     ],
     "vehicles": [
     ],
@@ -90,7 +90,7 @@ const people = [
     ],
     "created": "2014-12-10T15:11:50.376000Z",
     "edited": "2014-12-20T21:17:50.311000Z",
-    "url": "http://swapi.co/api/people/3/",
+    "url": "https://swapiapi.herokuapp.com/api/people/3/",
     "id": 3
   },
   {
@@ -102,24 +102,24 @@ const people = [
     "eye_color": "yellow",
     "birth_year": "41.9BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/1/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/1/",
     "films": [
-      "http://swapi.co/api/films/6/",
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/",
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/6/",
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/",
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
     "starships": [
-      "http://swapi.co/api/starships/13/"
+      "https://swapiapi.herokuapp.com/api/starships/13/"
     ],
     "created": "2014-12-10T15:18:20.704000Z",
     "edited": "2014-12-20T21:17:50.313000Z",
-    "url": "http://swapi.co/api/people/4/",
+    "url": "https://swapiapi.herokuapp.com/api/people/4/",
     "id": 4
   },
   {
@@ -131,25 +131,25 @@ const people = [
     "eye_color": "brown",
     "birth_year": "19BBY",
     "gender": "female",
-    "homeworld": "http://swapi.co/api/planets/2/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/2/",
     "films": [
-      "http://swapi.co/api/films/6/",
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/",
-      "http://swapi.co/api/films/1/",
-      "http://swapi.co/api/films/7/"
+      "https://swapiapi.herokuapp.com/api/films/6/",
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/",
+      "https://swapiapi.herokuapp.com/api/films/1/",
+      "https://swapiapi.herokuapp.com/api/films/7/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
-      "http://swapi.co/api/vehicles/30/"
+      "https://swapiapi.herokuapp.com/api/vehicles/30/"
     ],
     "starships": [
     ],
     "created": "2014-12-10T15:20:09.791000Z",
     "edited": "2014-12-20T21:17:50.315000Z",
-    "url": "http://swapi.co/api/people/5/",
+    "url": "https://swapiapi.herokuapp.com/api/people/5/",
     "id": 5
   },
   {
@@ -161,14 +161,14 @@ const people = [
     "eye_color": "blue",
     "birth_year": "52BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/1/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/1/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/6/",
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/6/",
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
@@ -176,7 +176,7 @@ const people = [
     ],
     "created": "2014-12-10T15:52:14.024000Z",
     "edited": "2014-12-20T21:17:50.317000Z",
-    "url": "http://swapi.co/api/people/6/",
+    "url": "https://swapiapi.herokuapp.com/api/people/6/",
     "id": 6
   },
   {
@@ -188,14 +188,14 @@ const people = [
     "eye_color": "blue",
     "birth_year": "47BBY",
     "gender": "female",
-    "homeworld": "http://swapi.co/api/planets/1/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/1/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/6/",
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/6/",
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
@@ -203,7 +203,7 @@ const people = [
     ],
     "created": "2014-12-10T15:53:41.121000Z",
     "edited": "2014-12-20T21:17:50.319000Z",
-    "url": "http://swapi.co/api/people/7/",
+    "url": "https://swapiapi.herokuapp.com/api/people/7/",
     "id": 7
   },
   {
@@ -215,12 +215,12 @@ const people = [
     "eye_color": "red",
     "birth_year": "unknown",
     "gender": "n/a",
-    "homeworld": "http://swapi.co/api/planets/1/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/1/",
     "films": [
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "species": [
-      "http://swapi.co/api/species/2/"
+      "https://swapiapi.herokuapp.com/api/species/2/"
     ],
     "vehicles": [
     ],
@@ -228,7 +228,7 @@ const people = [
     ],
     "created": "2014-12-10T15:57:50.959000Z",
     "edited": "2014-12-20T21:17:50.321000Z",
-    "url": "http://swapi.co/api/people/8/",
+    "url": "https://swapiapi.herokuapp.com/api/people/8/",
     "id": 8
   },
   {
@@ -240,21 +240,21 @@ const people = [
     "eye_color": "brown",
     "birth_year": "24BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/1/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/1/",
     "films": [
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
     "starships": [
-      "http://swapi.co/api/starships/12/"
+      "https://swapiapi.herokuapp.com/api/starships/12/"
     ],
     "created": "2014-12-10T15:59:50.509000Z",
     "edited": "2014-12-20T21:17:50.323000Z",
-    "url": "http://swapi.co/api/people/9/",
+    "url": "https://swapiapi.herokuapp.com/api/people/9/",
     "id": 9
   },
   {
@@ -266,31 +266,31 @@ const people = [
     "eye_color": "blue-gray",
     "birth_year": "57BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/20/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/20/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/4/",
-      "http://swapi.co/api/films/6/",
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/",
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/4/",
+      "https://swapiapi.herokuapp.com/api/films/6/",
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/",
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
-      "http://swapi.co/api/vehicles/38/"
+      "https://swapiapi.herokuapp.com/api/vehicles/38/"
     ],
     "starships": [
-      "http://swapi.co/api/starships/48/",
-      "http://swapi.co/api/starships/59/",
-      "http://swapi.co/api/starships/64/",
-      "http://swapi.co/api/starships/65/",
-      "http://swapi.co/api/starships/74/"
+      "https://swapiapi.herokuapp.com/api/starships/48/",
+      "https://swapiapi.herokuapp.com/api/starships/59/",
+      "https://swapiapi.herokuapp.com/api/starships/64/",
+      "https://swapiapi.herokuapp.com/api/starships/65/",
+      "https://swapiapi.herokuapp.com/api/starships/74/"
     ],
     "created": "2014-12-10T16:16:29.192000Z",
     "edited": "2014-12-20T21:17:50.325000Z",
-    "url": "http://swapi.co/api/people/10/",
+    "url": "https://swapiapi.herokuapp.com/api/people/10/",
     "id": 10
   },
   {
@@ -302,27 +302,27 @@ const people = [
     "eye_color": "blue",
     "birth_year": "41.9BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/1/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/1/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/4/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/4/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
-      "http://swapi.co/api/vehicles/44/",
-      "http://swapi.co/api/vehicles/46/"
+      "https://swapiapi.herokuapp.com/api/vehicles/44/",
+      "https://swapiapi.herokuapp.com/api/vehicles/46/"
     ],
     "starships": [
-      "http://swapi.co/api/starships/59/",
-      "http://swapi.co/api/starships/65/",
-      "http://swapi.co/api/starships/39/"
+      "https://swapiapi.herokuapp.com/api/starships/59/",
+      "https://swapiapi.herokuapp.com/api/starships/65/",
+      "https://swapiapi.herokuapp.com/api/starships/39/"
     ],
     "created": "2014-12-10T16:20:44.310000Z",
     "edited": "2014-12-20T21:17:50.327000Z",
-    "url": "http://swapi.co/api/people/11/",
+    "url": "https://swapiapi.herokuapp.com/api/people/11/",
     "id": 11
   },
   {
@@ -334,13 +334,13 @@ const people = [
     "eye_color": "blue",
     "birth_year": "64BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/21/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/21/",
     "films": [
-      "http://swapi.co/api/films/1/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/1/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
@@ -348,7 +348,7 @@ const people = [
     ],
     "created": "2014-12-10T16:26:56.138000Z",
     "edited": "2014-12-20T21:17:50.330000Z",
-    "url": "http://swapi.co/api/people/12/",
+    "url": "https://swapiapi.herokuapp.com/api/people/12/",
     "id": 12
   },
   {
@@ -360,27 +360,27 @@ const people = [
     "eye_color": "blue",
     "birth_year": "200BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/14/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/14/",
     "films": [
-      "http://swapi.co/api/films/6/",
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/",
-      "http://swapi.co/api/films/1/",
-      "http://swapi.co/api/films/7/"
+      "https://swapiapi.herokuapp.com/api/films/6/",
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/",
+      "https://swapiapi.herokuapp.com/api/films/1/",
+      "https://swapiapi.herokuapp.com/api/films/7/"
     ],
     "species": [
-      "http://swapi.co/api/species/3/"
+      "https://swapiapi.herokuapp.com/api/species/3/"
     ],
     "vehicles": [
-      "http://swapi.co/api/vehicles/19/"
+      "https://swapiapi.herokuapp.com/api/vehicles/19/"
     ],
     "starships": [
-      "http://swapi.co/api/starships/10/",
-      "http://swapi.co/api/starships/22/"
+      "https://swapiapi.herokuapp.com/api/starships/10/",
+      "https://swapiapi.herokuapp.com/api/starships/22/"
     ],
     "created": "2014-12-10T16:42:45.066000Z",
     "edited": "2014-12-20T21:17:50.332000Z",
-    "url": "http://swapi.co/api/people/13/",
+    "url": "https://swapiapi.herokuapp.com/api/people/13/",
     "id": 13
   },
   {
@@ -392,25 +392,25 @@ const people = [
     "eye_color": "brown",
     "birth_year": "29BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/22/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/22/",
     "films": [
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/",
-      "http://swapi.co/api/films/1/",
-      "http://swapi.co/api/films/7/"
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/",
+      "https://swapiapi.herokuapp.com/api/films/1/",
+      "https://swapiapi.herokuapp.com/api/films/7/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
     "starships": [
-      "http://swapi.co/api/starships/10/",
-      "http://swapi.co/api/starships/22/"
+      "https://swapiapi.herokuapp.com/api/starships/10/",
+      "https://swapiapi.herokuapp.com/api/starships/22/"
     ],
     "created": "2014-12-10T16:49:14.582000Z",
     "edited": "2014-12-20T21:17:50.334000Z",
-    "url": "http://swapi.co/api/people/14/",
+    "url": "https://swapiapi.herokuapp.com/api/people/14/",
     "id": 14
   },
   {
@@ -422,12 +422,12 @@ const people = [
     "eye_color": "black",
     "birth_year": "44BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/23/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/23/",
     "films": [
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "species": [
-      "http://swapi.co/api/species/4/"
+      "https://swapiapi.herokuapp.com/api/species/4/"
     ],
     "vehicles": [
     ],
@@ -435,7 +435,7 @@ const people = [
     ],
     "created": "2014-12-10T17:03:30.334000Z",
     "edited": "2014-12-20T21:17:50.336000Z",
-    "url": "http://swapi.co/api/people/15/",
+    "url": "https://swapiapi.herokuapp.com/api/people/15/",
     "id": 15
   },
   {
@@ -447,14 +447,14 @@ const people = [
     "eye_color": "orange",
     "birth_year": "600BBY",
     "gender": "hermaphrodite",
-    "homeworld": "http://swapi.co/api/planets/24/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/24/",
     "films": [
-      "http://swapi.co/api/films/4/",
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/4/",
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "species": [
-      "http://swapi.co/api/species/5/"
+      "https://swapiapi.herokuapp.com/api/species/5/"
     ],
     "vehicles": [
     ],
@@ -462,7 +462,7 @@ const people = [
     ],
     "created": "2014-12-10T17:11:31.638000Z",
     "edited": "2014-12-20T21:17:50.338000Z",
-    "url": "http://swapi.co/api/people/16/",
+    "url": "https://swapiapi.herokuapp.com/api/people/16/",
     "id": 16
   },
   {
@@ -474,24 +474,24 @@ const people = [
     "eye_color": "hazel",
     "birth_year": "21BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/22/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/22/",
     "films": [
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/",
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/",
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
-      "http://swapi.co/api/vehicles/14/"
+      "https://swapiapi.herokuapp.com/api/vehicles/14/"
     ],
     "starships": [
-      "http://swapi.co/api/starships/12/"
+      "https://swapiapi.herokuapp.com/api/starships/12/"
     ],
     "created": "2014-12-12T11:08:06.469000Z",
     "edited": "2014-12-20T21:17:50.341000Z",
-    "url": "http://swapi.co/api/people/18/",
+    "url": "https://swapiapi.herokuapp.com/api/people/18/",
     "id": 18
   },
   {
@@ -503,21 +503,21 @@ const people = [
     "eye_color": "blue",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/26/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/26/",
     "films": [
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
     "starships": [
-      "http://swapi.co/api/starships/12/"
+      "https://swapiapi.herokuapp.com/api/starships/12/"
     ],
     "created": "2014-12-12T11:16:56.569000Z",
     "edited": "2014-12-20T21:17:50.343000Z",
-    "url": "http://swapi.co/api/people/19/",
+    "url": "https://swapiapi.herokuapp.com/api/people/19/",
     "id": 19
   },
   {
@@ -529,16 +529,16 @@ const people = [
     "eye_color": "brown",
     "birth_year": "896BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/28/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/28/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/4/",
-      "http://swapi.co/api/films/6/",
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/4/",
+      "https://swapiapi.herokuapp.com/api/films/6/",
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/"
     ],
     "species": [
-      "http://swapi.co/api/species/6/"
+      "https://swapiapi.herokuapp.com/api/species/6/"
     ],
     "vehicles": [
     ],
@@ -546,7 +546,7 @@ const people = [
     ],
     "created": "2014-12-15T12:26:01.042000Z",
     "edited": "2014-12-20T21:17:50.345000Z",
-    "url": "http://swapi.co/api/people/20/",
+    "url": "https://swapiapi.herokuapp.com/api/people/20/",
     "id": 20
   },
   {
@@ -558,16 +558,16 @@ const people = [
     "eye_color": "yellow",
     "birth_year": "82BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/8/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/8/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/4/",
-      "http://swapi.co/api/films/6/",
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/4/",
+      "https://swapiapi.herokuapp.com/api/films/6/",
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
@@ -575,7 +575,7 @@ const people = [
     ],
     "created": "2014-12-15T12:48:05.971000Z",
     "edited": "2014-12-20T21:17:50.347000Z",
-    "url": "http://swapi.co/api/people/21/",
+    "url": "https://swapiapi.herokuapp.com/api/people/21/",
     "id": 21
   },
   {
@@ -587,23 +587,23 @@ const people = [
     "eye_color": "brown",
     "birth_year": "31.5BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/10/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/10/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
     "starships": [
-      "http://swapi.co/api/starships/21/"
+      "https://swapiapi.herokuapp.com/api/starships/21/"
     ],
     "created": "2014-12-15T12:49:32.457000Z",
     "edited": "2014-12-20T21:17:50.349000Z",
-    "url": "http://swapi.co/api/people/22/",
+    "url": "https://swapiapi.herokuapp.com/api/people/22/",
     "id": 22
   },
   {
@@ -615,12 +615,12 @@ const people = [
     "eye_color": "red",
     "birth_year": "15BBY",
     "gender": "none",
-    "homeworld": "http://swapi.co/api/planets/28/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/28/",
     "films": [
-      "http://swapi.co/api/films/2/"
+      "https://swapiapi.herokuapp.com/api/films/2/"
     ],
     "species": [
-      "http://swapi.co/api/species/2/"
+      "https://swapiapi.herokuapp.com/api/species/2/"
     ],
     "vehicles": [
     ],
@@ -628,7 +628,7 @@ const people = [
     ],
     "created": "2014-12-15T12:51:10.076000Z",
     "edited": "2014-12-20T21:17:50.351000Z",
-    "url": "http://swapi.co/api/people/23/",
+    "url": "https://swapiapi.herokuapp.com/api/people/23/",
     "id": 23
   },
   {
@@ -640,12 +640,12 @@ const people = [
     "eye_color": "red",
     "birth_year": "53BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/29/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/29/",
     "films": [
-      "http://swapi.co/api/films/2/"
+      "https://swapiapi.herokuapp.com/api/films/2/"
     ],
     "species": [
-      "http://swapi.co/api/species/7/"
+      "https://swapiapi.herokuapp.com/api/species/7/"
     ],
     "vehicles": [
     ],
@@ -653,7 +653,7 @@ const people = [
     ],
     "created": "2014-12-15T12:53:49.297000Z",
     "edited": "2014-12-20T21:17:50.355000Z",
-    "url": "http://swapi.co/api/people/24/",
+    "url": "https://swapiapi.herokuapp.com/api/people/24/",
     "id": 24
   },
   {
@@ -665,22 +665,22 @@ const people = [
     "eye_color": "brown",
     "birth_year": "31BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/30/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/30/",
     "films": [
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/"
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
     "starships": [
-      "http://swapi.co/api/starships/10/"
+      "https://swapiapi.herokuapp.com/api/starships/10/"
     ],
     "created": "2014-12-15T12:56:32.683000Z",
     "edited": "2014-12-20T21:17:50.357000Z",
-    "url": "http://swapi.co/api/people/25/",
+    "url": "https://swapiapi.herokuapp.com/api/people/25/",
     "id": 25
   },
   {
@@ -692,12 +692,12 @@ const people = [
     "eye_color": "blue",
     "birth_year": "37BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/6/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/6/",
     "films": [
-      "http://swapi.co/api/films/2/"
+      "https://swapiapi.herokuapp.com/api/films/2/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
@@ -705,7 +705,7 @@ const people = [
     ],
     "created": "2014-12-15T13:01:57.178000Z",
     "edited": "2014-12-20T21:17:50.359000Z",
-    "url": "http://swapi.co/api/people/26/",
+    "url": "https://swapiapi.herokuapp.com/api/people/26/",
     "id": 26
   },
   {
@@ -717,13 +717,13 @@ const people = [
     "eye_color": "orange",
     "birth_year": "41BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/31/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/31/",
     "films": [
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/7/"
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/7/"
     ],
     "species": [
-      "http://swapi.co/api/species/8/"
+      "https://swapiapi.herokuapp.com/api/species/8/"
     ],
     "vehicles": [
     ],
@@ -731,7 +731,7 @@ const people = [
     ],
     "created": "2014-12-18T11:07:50.584000Z",
     "edited": "2014-12-20T21:17:50.362000Z",
-    "url": "http://swapi.co/api/people/27/",
+    "url": "https://swapiapi.herokuapp.com/api/people/27/",
     "id": 27
   },
   {
@@ -743,12 +743,12 @@ const people = [
     "eye_color": "blue",
     "birth_year": "48BBY",
     "gender": "female",
-    "homeworld": "http://swapi.co/api/planets/32/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/32/",
     "films": [
-      "http://swapi.co/api/films/3/"
+      "https://swapiapi.herokuapp.com/api/films/3/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
@@ -756,7 +756,7 @@ const people = [
     ],
     "created": "2014-12-18T11:12:38.895000Z",
     "edited": "2014-12-20T21:17:50.364000Z",
-    "url": "http://swapi.co/api/people/28/",
+    "url": "https://swapiapi.herokuapp.com/api/people/28/",
     "id": 28
   },
   {
@@ -768,21 +768,21 @@ const people = [
     "eye_color": "brown",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/28/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/28/",
     "films": [
-      "http://swapi.co/api/films/3/"
+      "https://swapiapi.herokuapp.com/api/films/3/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
     "starships": [
-      "http://swapi.co/api/starships/28/"
+      "https://swapiapi.herokuapp.com/api/starships/28/"
     ],
     "created": "2014-12-18T11:16:33.020000Z",
     "edited": "2014-12-20T21:17:50.367000Z",
-    "url": "http://swapi.co/api/people/29/",
+    "url": "https://swapiapi.herokuapp.com/api/people/29/",
     "id": 29
   },
   {
@@ -794,12 +794,12 @@ const people = [
     "eye_color": "brown",
     "birth_year": "8BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/7/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/7/",
     "films": [
-      "http://swapi.co/api/films/3/"
+      "https://swapiapi.herokuapp.com/api/films/3/"
     ],
     "species": [
-      "http://swapi.co/api/species/9/"
+      "https://swapiapi.herokuapp.com/api/species/9/"
     ],
     "vehicles": [
     ],
@@ -807,7 +807,7 @@ const people = [
     ],
     "created": "2014-12-18T11:21:58.954000Z",
     "edited": "2014-12-20T21:17:50.369000Z",
-    "url": "http://swapi.co/api/people/30/",
+    "url": "https://swapiapi.herokuapp.com/api/people/30/",
     "id": 30
   },
   {
@@ -819,21 +819,21 @@ const people = [
     "eye_color": "black",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/33/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/33/",
     "films": [
-      "http://swapi.co/api/films/3/"
+      "https://swapiapi.herokuapp.com/api/films/3/"
     ],
     "species": [
-      "http://swapi.co/api/species/10/"
+      "https://swapiapi.herokuapp.com/api/species/10/"
     ],
     "vehicles": [
     ],
     "starships": [
-      "http://swapi.co/api/starships/10/"
+      "https://swapiapi.herokuapp.com/api/starships/10/"
     ],
     "created": "2014-12-18T11:26:18.541000Z",
     "edited": "2014-12-20T21:17:50.371000Z",
-    "url": "http://swapi.co/api/people/31/",
+    "url": "https://swapiapi.herokuapp.com/api/people/31/",
     "id": 31
   },
   {
@@ -845,21 +845,21 @@ const people = [
     "eye_color": "blue",
     "birth_year": "92BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/28/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/28/",
     "films": [
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
-      "http://swapi.co/api/vehicles/38/"
+      "https://swapiapi.herokuapp.com/api/vehicles/38/"
     ],
     "starships": [
     ],
     "created": "2014-12-19T16:54:53.618000Z",
     "edited": "2014-12-20T21:17:50.375000Z",
-    "url": "http://swapi.co/api/people/32/",
+    "url": "https://swapiapi.herokuapp.com/api/people/32/",
     "id": 32
   },
   {
@@ -871,14 +871,14 @@ const people = [
     "eye_color": "red",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/18/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/18/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/4/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/4/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "species": [
-      "http://swapi.co/api/species/11/"
+      "https://swapiapi.herokuapp.com/api/species/11/"
     ],
     "vehicles": [
     ],
@@ -886,7 +886,7 @@ const people = [
     ],
     "created": "2014-12-19T17:05:57.357000Z",
     "edited": "2014-12-20T21:17:50.377000Z",
-    "url": "http://swapi.co/api/people/33/",
+    "url": "https://swapiapi.herokuapp.com/api/people/33/",
     "id": 33
   },
   {
@@ -898,12 +898,12 @@ const people = [
     "eye_color": "blue",
     "birth_year": "91BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/9/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/9/",
     "films": [
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
@@ -911,7 +911,7 @@ const people = [
     ],
     "created": "2014-12-19T17:21:45.915000Z",
     "edited": "2014-12-20T21:17:50.379000Z",
-    "url": "http://swapi.co/api/people/34/",
+    "url": "https://swapiapi.herokuapp.com/api/people/34/",
     "id": 34
   },
   {
@@ -923,13 +923,13 @@ const people = [
     "eye_color": "orange",
     "birth_year": "52BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/8/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/8/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "species": [
-      "http://swapi.co/api/species/12/"
+      "https://swapiapi.herokuapp.com/api/species/12/"
     ],
     "vehicles": [
     ],
@@ -937,7 +937,7 @@ const people = [
     ],
     "created": "2014-12-19T17:29:32.489000Z",
     "edited": "2014-12-20T21:17:50.383000Z",
-    "url": "http://swapi.co/api/people/36/",
+    "url": "https://swapiapi.herokuapp.com/api/people/36/",
     "id": 36
   },
   {
@@ -949,12 +949,12 @@ const people = [
     "eye_color": "orange",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/8/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/8/",
     "films": [
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "species": [
-      "http://swapi.co/api/species/12/"
+      "https://swapiapi.herokuapp.com/api/species/12/"
     ],
     "vehicles": [
     ],
@@ -962,7 +962,7 @@ const people = [
     ],
     "created": "2014-12-19T17:32:56.741000Z",
     "edited": "2014-12-20T21:17:50.385000Z",
-    "url": "http://swapi.co/api/people/37/",
+    "url": "https://swapiapi.herokuapp.com/api/people/37/",
     "id": 37
   },
   {
@@ -974,12 +974,12 @@ const people = [
     "eye_color": "orange",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/8/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/8/",
     "films": [
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "species": [
-      "http://swapi.co/api/species/12/"
+      "https://swapiapi.herokuapp.com/api/species/12/"
     ],
     "vehicles": [
     ],
@@ -987,7 +987,7 @@ const people = [
     ],
     "created": "2014-12-19T17:33:38.909000Z",
     "edited": "2014-12-20T21:17:50.388000Z",
-    "url": "http://swapi.co/api/people/38/",
+    "url": "https://swapiapi.herokuapp.com/api/people/38/",
     "id": 38
   },
   {
@@ -999,20 +999,20 @@ const people = [
     "eye_color": "blue",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/8/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/8/",
     "films": [
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "species": [
     ],
     "vehicles": [
     ],
     "starships": [
-      "http://swapi.co/api/starships/40/"
+      "https://swapiapi.herokuapp.com/api/starships/40/"
     ],
     "created": "2014-12-19T17:45:01.522000Z",
     "edited": "2014-12-20T21:17:50.392000Z",
-    "url": "http://swapi.co/api/people/39/",
+    "url": "https://swapiapi.herokuapp.com/api/people/39/",
     "id": 39
   },
   {
@@ -1024,13 +1024,13 @@ const people = [
     "eye_color": "yellow",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/34/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/34/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "species": [
-      "http://swapi.co/api/species/13/"
+      "https://swapiapi.herokuapp.com/api/species/13/"
     ],
     "vehicles": [
     ],
@@ -1038,7 +1038,7 @@ const people = [
     ],
     "created": "2014-12-19T17:48:54.647000Z",
     "edited": "2014-12-20T21:17:50.395000Z",
-    "url": "http://swapi.co/api/people/40/",
+    "url": "https://swapiapi.herokuapp.com/api/people/40/",
     "id": 40
   },
   {
@@ -1050,12 +1050,12 @@ const people = [
     "eye_color": "orange",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/35/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/35/",
     "films": [
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "species": [
-      "http://swapi.co/api/species/14/"
+      "https://swapiapi.herokuapp.com/api/species/14/"
     ],
     "vehicles": [
     ],
@@ -1063,7 +1063,7 @@ const people = [
     ],
     "created": "2014-12-19T17:53:02.586000Z",
     "edited": "2014-12-20T21:17:50.397000Z",
-    "url": "http://swapi.co/api/people/41/",
+    "url": "https://swapiapi.herokuapp.com/api/people/41/",
     "id": 41
   },
   {
@@ -1075,9 +1075,9 @@ const people = [
     "eye_color": "brown",
     "birth_year": "62BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/8/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/8/",
     "films": [
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "species": [
     ],
@@ -1087,7 +1087,7 @@ const people = [
     ],
     "created": "2014-12-19T17:55:43.348000Z",
     "edited": "2014-12-20T21:17:50.399000Z",
-    "url": "http://swapi.co/api/people/42/",
+    "url": "https://swapiapi.herokuapp.com/api/people/42/",
     "id": 42
   },
   {
@@ -1099,13 +1099,13 @@ const people = [
     "eye_color": "brown",
     "birth_year": "72BBY",
     "gender": "female",
-    "homeworld": "http://swapi.co/api/planets/1/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/1/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
@@ -1113,7 +1113,7 @@ const people = [
     ],
     "created": "2014-12-19T17:57:41.191000Z",
     "edited": "2014-12-20T21:17:50.401000Z",
-    "url": "http://swapi.co/api/people/43/",
+    "url": "https://swapiapi.herokuapp.com/api/people/43/",
     "id": 43
   },
   {
@@ -1125,22 +1125,22 @@ const people = [
     "eye_color": "yellow",
     "birth_year": "54BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/36/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/36/",
     "films": [
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "species": [
-      "http://swapi.co/api/species/22/"
+      "https://swapiapi.herokuapp.com/api/species/22/"
     ],
     "vehicles": [
-      "http://swapi.co/api/vehicles/42/"
+      "https://swapiapi.herokuapp.com/api/vehicles/42/"
     ],
     "starships": [
-      "http://swapi.co/api/starships/41/"
+      "https://swapiapi.herokuapp.com/api/starships/41/"
     ],
     "created": "2014-12-19T18:00:41.929000Z",
     "edited": "2014-12-20T21:17:50.403000Z",
-    "url": "http://swapi.co/api/people/44/",
+    "url": "https://swapiapi.herokuapp.com/api/people/44/",
     "id": 44
   },
   {
@@ -1152,12 +1152,12 @@ const people = [
     "eye_color": "pink",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/37/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/37/",
     "films": [
-      "http://swapi.co/api/films/3/"
+      "https://swapiapi.herokuapp.com/api/films/3/"
     ],
     "species": [
-      "http://swapi.co/api/species/15/"
+      "https://swapiapi.herokuapp.com/api/species/15/"
     ],
     "vehicles": [
     ],
@@ -1165,7 +1165,7 @@ const people = [
     ],
     "created": "2014-12-20T09:47:02.512000Z",
     "edited": "2014-12-20T21:17:50.407000Z",
-    "url": "http://swapi.co/api/people/45/",
+    "url": "https://swapiapi.herokuapp.com/api/people/45/",
     "id": 45
   },
   {
@@ -1177,14 +1177,14 @@ const people = [
     "eye_color": "hazel",
     "birth_year": "48BBY",
     "gender": "female",
-    "homeworld": "http://swapi.co/api/planets/37/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/37/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/4/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/4/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "species": [
-      "http://swapi.co/api/species/15/"
+      "https://swapiapi.herokuapp.com/api/species/15/"
     ],
     "vehicles": [
     ],
@@ -1192,7 +1192,7 @@ const people = [
     ],
     "created": "2014-12-20T09:48:01.172000Z",
     "edited": "2014-12-20T21:17:50.409000Z",
-    "url": "http://swapi.co/api/people/46/",
+    "url": "https://swapiapi.herokuapp.com/api/people/46/",
     "id": 46
   },
   {
@@ -1204,12 +1204,12 @@ const people = [
     "eye_color": "yellow",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/39/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/39/",
     "films": [
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "species": [
-      "http://swapi.co/api/species/17/"
+      "https://swapiapi.herokuapp.com/api/species/17/"
     ],
     "vehicles": [
     ],
@@ -1217,7 +1217,7 @@ const people = [
     ],
     "created": "2014-12-20T09:57:31.858000Z",
     "edited": "2014-12-20T21:17:50.414000Z",
-    "url": "http://swapi.co/api/people/48/",
+    "url": "https://swapiapi.herokuapp.com/api/people/48/",
     "id": 48
   },
   {
@@ -1229,12 +1229,12 @@ const people = [
     "eye_color": "black",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/40/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/40/",
     "films": [
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "species": [
-      "http://swapi.co/api/species/18/"
+      "https://swapiapi.herokuapp.com/api/species/18/"
     ],
     "vehicles": [
     ],
@@ -1242,7 +1242,7 @@ const people = [
     ],
     "created": "2014-12-20T10:02:12.223000Z",
     "edited": "2014-12-20T21:17:50.416000Z",
-    "url": "http://swapi.co/api/people/49/",
+    "url": "https://swapiapi.herokuapp.com/api/people/49/",
     "id": 49
   },
   {
@@ -1254,12 +1254,12 @@ const people = [
     "eye_color": "orange",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/41/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/41/",
     "films": [
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "species": [
-      "http://swapi.co/api/species/19/"
+      "https://swapiapi.herokuapp.com/api/species/19/"
     ],
     "vehicles": [
     ],
@@ -1267,7 +1267,7 @@ const people = [
     ],
     "created": "2014-12-20T10:08:33.777000Z",
     "edited": "2014-12-20T21:17:50.417000Z",
-    "url": "http://swapi.co/api/people/50/",
+    "url": "https://swapiapi.herokuapp.com/api/people/50/",
     "id": 50
   },
   {
@@ -1279,14 +1279,14 @@ const people = [
     "eye_color": "brown",
     "birth_year": "72BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/42/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/42/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/4/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/4/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
@@ -1294,7 +1294,7 @@ const people = [
     ],
     "created": "2014-12-20T10:12:30.846000Z",
     "edited": "2014-12-20T21:17:50.420000Z",
-    "url": "http://swapi.co/api/people/51/",
+    "url": "https://swapiapi.herokuapp.com/api/people/51/",
     "id": 51
   },
   {
@@ -1306,14 +1306,14 @@ const people = [
     "eye_color": "yellow",
     "birth_year": "92BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/43/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/43/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/4/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/4/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "species": [
-      "http://swapi.co/api/species/20/"
+      "https://swapiapi.herokuapp.com/api/species/20/"
     ],
     "vehicles": [
     ],
@@ -1321,7 +1321,7 @@ const people = [
     ],
     "created": "2014-12-20T10:15:32.293000Z",
     "edited": "2014-12-20T21:17:50.422000Z",
-    "url": "http://swapi.co/api/people/52/",
+    "url": "https://swapiapi.herokuapp.com/api/people/52/",
     "id": 52
   },
   {
@@ -1333,14 +1333,14 @@ const people = [
     "eye_color": "black",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/44/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/44/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/4/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/4/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "species": [
-      "http://swapi.co/api/species/21/"
+      "https://swapiapi.herokuapp.com/api/species/21/"
     ],
     "vehicles": [
     ],
@@ -1348,7 +1348,7 @@ const people = [
     ],
     "created": "2014-12-20T10:18:57.202000Z",
     "edited": "2014-12-20T21:17:50.424000Z",
-    "url": "http://swapi.co/api/people/53/",
+    "url": "https://swapiapi.herokuapp.com/api/people/53/",
     "id": 53
   },
   {
@@ -1360,13 +1360,13 @@ const people = [
     "eye_color": "brown",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/45/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/45/",
     "films": [
-      "http://swapi.co/api/films/4/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/4/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "species": [
-      "http://swapi.co/api/species/22/"
+      "https://swapiapi.herokuapp.com/api/species/22/"
     ],
     "vehicles": [
     ],
@@ -1374,7 +1374,7 @@ const people = [
     ],
     "created": "2014-12-20T10:26:47.902000Z",
     "edited": "2014-12-20T21:17:50.427000Z",
-    "url": "http://swapi.co/api/people/54/",
+    "url": "https://swapiapi.herokuapp.com/api/people/54/",
     "id": 54
   },
   {
@@ -1386,13 +1386,13 @@ const people = [
     "eye_color": "blue",
     "birth_year": "unknown",
     "gender": "female",
-    "homeworld": "http://swapi.co/api/planets/9/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/9/",
     "films": [
-      "http://swapi.co/api/films/4/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/4/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "species": [
-      "http://swapi.co/api/species/23/"
+      "https://swapiapi.herokuapp.com/api/species/23/"
     ],
     "vehicles": [
     ],
@@ -1400,7 +1400,7 @@ const people = [
     ],
     "created": "2014-12-20T10:29:11.661000Z",
     "edited": "2014-12-20T21:17:50.432000Z",
-    "url": "http://swapi.co/api/people/55/",
+    "url": "https://swapiapi.herokuapp.com/api/people/55/",
     "id": 55
   },
   {
@@ -1412,13 +1412,13 @@ const people = [
     "eye_color": "orange",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/47/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/47/",
     "films": [
-      "http://swapi.co/api/films/4/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/4/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "species": [
-      "http://swapi.co/api/species/24/"
+      "https://swapiapi.herokuapp.com/api/species/24/"
     ],
     "vehicles": [
     ],
@@ -1426,7 +1426,7 @@ const people = [
     ],
     "created": "2014-12-20T10:32:11.669000Z",
     "edited": "2014-12-20T21:17:50.434000Z",
-    "url": "http://swapi.co/api/people/56/",
+    "url": "https://swapiapi.herokuapp.com/api/people/56/",
     "id": 56
   },
   {
@@ -1438,12 +1438,12 @@ const people = [
     "eye_color": "yellow",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/48/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/48/",
     "films": [
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "species": [
-      "http://swapi.co/api/species/25/"
+      "https://swapiapi.herokuapp.com/api/species/25/"
     ],
     "vehicles": [
     ],
@@ -1451,7 +1451,7 @@ const people = [
     ],
     "created": "2014-12-20T10:34:48.725000Z",
     "edited": "2014-12-20T21:17:50.437000Z",
-    "url": "http://swapi.co/api/people/57/",
+    "url": "https://swapiapi.herokuapp.com/api/people/57/",
     "id": 57
   },
   {
@@ -1463,23 +1463,23 @@ const people = [
     "eye_color": "black",
     "birth_year": "22BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/49/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/49/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/4/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/4/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "species": [
-      "http://swapi.co/api/species/26/"
+      "https://swapiapi.herokuapp.com/api/species/26/"
     ],
     "vehicles": [
     ],
     "starships": [
-      "http://swapi.co/api/starships/48/"
+      "https://swapiapi.herokuapp.com/api/starships/48/"
     ],
     "created": "2014-12-20T10:49:19.859000Z",
     "edited": "2014-12-20T21:17:50.439000Z",
-    "url": "http://swapi.co/api/people/58/",
+    "url": "https://swapiapi.herokuapp.com/api/people/58/",
     "id": 58
   },
   {
@@ -1491,13 +1491,13 @@ const people = [
     "eye_color": "blue",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/50/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/50/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "species": [
-      "http://swapi.co/api/species/27/"
+      "https://swapiapi.herokuapp.com/api/species/27/"
     ],
     "vehicles": [
     ],
@@ -1505,7 +1505,7 @@ const people = [
     ],
     "created": "2014-12-20T10:53:26.457000Z",
     "edited": "2014-12-20T21:17:50.442000Z",
-    "url": "http://swapi.co/api/people/59/",
+    "url": "https://swapiapi.herokuapp.com/api/people/59/",
     "id": 59
   },
   {
@@ -1517,21 +1517,21 @@ const people = [
     "eye_color": "brown",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/8/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/8/",
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
     "starships": [
-      "http://swapi.co/api/starships/39/"
+      "https://swapiapi.herokuapp.com/api/starships/39/"
     ],
     "created": "2014-12-20T11:10:10.381000Z",
     "edited": "2014-12-20T21:17:50.445000Z",
-    "url": "http://swapi.co/api/people/60/",
+    "url": "https://swapiapi.herokuapp.com/api/people/60/",
     "id": 60
   },
   {
@@ -1543,12 +1543,12 @@ const people = [
     "eye_color": "brown",
     "birth_year": "unknown",
     "gender": "female",
-    "homeworld": "http://swapi.co/api/planets/8/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/8/",
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
@@ -1556,7 +1556,7 @@ const people = [
     ],
     "created": "2014-12-20T11:11:39.630000Z",
     "edited": "2014-12-20T21:17:50.449000Z",
-    "url": "http://swapi.co/api/people/61/",
+    "url": "https://swapiapi.herokuapp.com/api/people/61/",
     "id": 61
   },
   {
@@ -1568,12 +1568,12 @@ const people = [
     "eye_color": "blue",
     "birth_year": "82BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/1/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/1/",
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
@@ -1581,7 +1581,7 @@ const people = [
     ],
     "created": "2014-12-20T15:59:03.958000Z",
     "edited": "2014-12-20T21:17:50.451000Z",
-    "url": "http://swapi.co/api/people/62/",
+    "url": "https://swapiapi.herokuapp.com/api/people/62/",
     "id": 62
   },
   {
@@ -1593,13 +1593,13 @@ const people = [
     "eye_color": "yellow",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/11/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/11/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "species": [
-      "http://swapi.co/api/species/28/"
+      "https://swapiapi.herokuapp.com/api/species/28/"
     ],
     "vehicles": [
     ],
@@ -1607,7 +1607,7 @@ const people = [
     ],
     "created": "2014-12-20T16:40:43.977000Z",
     "edited": "2014-12-20T21:17:50.453000Z",
-    "url": "http://swapi.co/api/people/63/",
+    "url": "https://swapiapi.herokuapp.com/api/people/63/",
     "id": 63
   },
   {
@@ -1619,13 +1619,13 @@ const people = [
     "eye_color": "blue",
     "birth_year": "58BBY",
     "gender": "female",
-    "homeworld": "http://swapi.co/api/planets/51/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/51/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "species": [
-      "http://swapi.co/api/species/29/"
+      "https://swapiapi.herokuapp.com/api/species/29/"
     ],
     "vehicles": [
     ],
@@ -1633,7 +1633,7 @@ const people = [
     ],
     "created": "2014-12-20T16:45:53.668000Z",
     "edited": "2014-12-20T21:17:50.455000Z",
-    "url": "http://swapi.co/api/people/64/",
+    "url": "https://swapiapi.herokuapp.com/api/people/64/",
     "id": 64
   },
   {
@@ -1645,12 +1645,12 @@ const people = [
     "eye_color": "blue",
     "birth_year": "40BBY",
     "gender": "female",
-    "homeworld": "http://swapi.co/api/planets/51/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/51/",
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "species": [
-      "http://swapi.co/api/species/29/"
+      "https://swapiapi.herokuapp.com/api/species/29/"
     ],
     "vehicles": [
     ],
@@ -1658,7 +1658,7 @@ const people = [
     ],
     "created": "2014-12-20T16:46:40.440000Z",
     "edited": "2014-12-20T21:17:50.457000Z",
-    "url": "http://swapi.co/api/people/65/",
+    "url": "https://swapiapi.herokuapp.com/api/people/65/",
     "id": 65
   },
   {
@@ -1670,12 +1670,12 @@ const people = [
     "eye_color": "brown",
     "birth_year": "unknown",
     "gender": "female",
-    "homeworld": "http://swapi.co/api/planets/8/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/8/",
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
@@ -1683,7 +1683,7 @@ const people = [
     ],
     "created": "2014-12-20T16:49:14.640000Z",
     "edited": "2014-12-20T21:17:50.460000Z",
-    "url": "http://swapi.co/api/people/66/",
+    "url": "https://swapiapi.herokuapp.com/api/people/66/",
     "id": 66
   },
   {
@@ -1695,22 +1695,22 @@ const people = [
     "eye_color": "brown",
     "birth_year": "102BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/52/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/52/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
-      "http://swapi.co/api/vehicles/55/"
+      "https://swapiapi.herokuapp.com/api/vehicles/55/"
     ],
     "starships": [
     ],
     "created": "2014-12-20T16:52:14.726000Z",
     "edited": "2014-12-20T21:17:50.462000Z",
-    "url": "http://swapi.co/api/people/67/",
+    "url": "https://swapiapi.herokuapp.com/api/people/67/",
     "id": 67
   },
   {
@@ -1722,13 +1722,13 @@ const people = [
     "eye_color": "brown",
     "birth_year": "67BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/2/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/2/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
@@ -1736,7 +1736,7 @@ const people = [
     ],
     "created": "2014-12-20T16:53:08.575000Z",
     "edited": "2014-12-20T21:17:50.463000Z",
-    "url": "http://swapi.co/api/people/68/",
+    "url": "https://swapiapi.herokuapp.com/api/people/68/",
     "id": 68
   },
   {
@@ -1748,12 +1748,12 @@ const people = [
     "eye_color": "brown",
     "birth_year": "66BBY",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/53/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/53/",
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
@@ -1761,7 +1761,7 @@ const people = [
     ],
     "created": "2014-12-20T16:54:41.620000Z",
     "edited": "2014-12-20T21:17:50.465000Z",
-    "url": "http://swapi.co/api/people/69/",
+    "url": "https://swapiapi.herokuapp.com/api/people/69/",
     "id": 69
   },
   {
@@ -1773,21 +1773,21 @@ const people = [
     "eye_color": "yellow",
     "birth_year": "unknown",
     "gender": "female",
-    "homeworld": "http://swapi.co/api/planets/54/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/54/",
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "species": [
-      "http://swapi.co/api/species/30/"
+      "https://swapiapi.herokuapp.com/api/species/30/"
     ],
     "vehicles": [
-      "http://swapi.co/api/vehicles/45/"
+      "https://swapiapi.herokuapp.com/api/vehicles/45/"
     ],
     "starships": [
     ],
     "created": "2014-12-20T16:57:44.471000Z",
     "edited": "2014-12-20T21:17:50.468000Z",
-    "url": "http://swapi.co/api/people/70/",
+    "url": "https://swapiapi.herokuapp.com/api/people/70/",
     "id": 70
   },
   {
@@ -1799,12 +1799,12 @@ const people = [
     "eye_color": "yellow",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/55/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/55/",
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "species": [
-      "http://swapi.co/api/species/31/"
+      "https://swapiapi.herokuapp.com/api/species/31/"
     ],
     "vehicles": [
     ],
@@ -1812,7 +1812,7 @@ const people = [
     ],
     "created": "2014-12-20T17:28:27.248000Z",
     "edited": "2014-12-20T21:17:50.470000Z",
-    "url": "http://swapi.co/api/people/71/",
+    "url": "https://swapiapi.herokuapp.com/api/people/71/",
     "id": 71
   },
   {
@@ -1824,12 +1824,12 @@ const people = [
     "eye_color": "black",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/10/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/10/",
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "species": [
-      "http://swapi.co/api/species/32/"
+      "https://swapiapi.herokuapp.com/api/species/32/"
     ],
     "vehicles": [
     ],
@@ -1837,7 +1837,7 @@ const people = [
     ],
     "created": "2014-12-20T17:30:50.416000Z",
     "edited": "2014-12-20T21:17:50.473000Z",
-    "url": "http://swapi.co/api/people/72/",
+    "url": "https://swapiapi.herokuapp.com/api/people/72/",
     "id": 72
   },
   {
@@ -1849,12 +1849,12 @@ const people = [
     "eye_color": "black",
     "birth_year": "unknown",
     "gender": "female",
-    "homeworld": "http://swapi.co/api/planets/10/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/10/",
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "species": [
-      "http://swapi.co/api/species/32/"
+      "https://swapiapi.herokuapp.com/api/species/32/"
     ],
     "vehicles": [
     ],
@@ -1862,7 +1862,7 @@ const people = [
     ],
     "created": "2014-12-20T17:31:21.195000Z",
     "edited": "2014-12-20T21:17:50.474000Z",
-    "url": "http://swapi.co/api/people/73/",
+    "url": "https://swapiapi.herokuapp.com/api/people/73/",
     "id": 73
   },
   {
@@ -1874,12 +1874,12 @@ const people = [
     "eye_color": "blue",
     "birth_year": "unknown",
     "gender": "female",
-    "homeworld": "http://swapi.co/api/planets/9/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/9/",
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
@@ -1887,7 +1887,7 @@ const people = [
     ],
     "created": "2014-12-20T17:32:51.996000Z",
     "edited": "2014-12-20T21:17:50.476000Z",
-    "url": "http://swapi.co/api/people/74/",
+    "url": "https://swapiapi.herokuapp.com/api/people/74/",
     "id": 74
   },
   {
@@ -1899,12 +1899,12 @@ const people = [
     "eye_color": "unknown",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/38/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/38/",
     "films": [
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "species": [
-      "http://swapi.co/api/species/16/"
+      "https://swapiapi.herokuapp.com/api/species/16/"
     ],
     "vehicles": [
     ],
@@ -1912,7 +1912,7 @@ const people = [
     ],
     "created": "2014-12-20T09:53:15.086000Z",
     "edited": "2016-06-30T12:52:19.604868Z",
-    "url": "http://swapi.co/api/people/47/",
+    "url": "https://swapiapi.herokuapp.com/api/people/47/",
     "id": 47
   },
   {
@@ -1924,10 +1924,10 @@ const people = [
     "eye_color": "red, blue",
     "birth_year": "unknown",
     "gender": "female",
-    "homeworld": "http://swapi.co/api/planets/28/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/28/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "species": [
     ],
@@ -1937,7 +1937,7 @@ const people = [
     ],
     "created": "2014-12-20T17:43:36.409000Z",
     "edited": "2014-12-20T21:17:50.478000Z",
-    "url": "http://swapi.co/api/people/75/",
+    "url": "https://swapiapi.herokuapp.com/api/people/75/",
     "id": 75
   },
   {
@@ -1949,12 +1949,12 @@ const people = [
     "eye_color": "unknown",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/56/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/56/",
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "species": [
-      "http://swapi.co/api/species/33/"
+      "https://swapiapi.herokuapp.com/api/species/33/"
     ],
     "vehicles": [
     ],
@@ -1962,7 +1962,7 @@ const people = [
     ],
     "created": "2014-12-20T17:53:52.607000Z",
     "edited": "2014-12-20T21:17:50.481000Z",
-    "url": "http://swapi.co/api/people/76/",
+    "url": "https://swapiapi.herokuapp.com/api/people/76/",
     "id": 76
   },
   {
@@ -1974,12 +1974,12 @@ const people = [
     "eye_color": "gold",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/57/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/57/",
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "species": [
-      "http://swapi.co/api/species/34/"
+      "https://swapiapi.herokuapp.com/api/species/34/"
     ],
     "vehicles": [
     ],
@@ -1987,7 +1987,7 @@ const people = [
     ],
     "created": "2014-12-20T17:58:17.049000Z",
     "edited": "2014-12-20T21:17:50.484000Z",
-    "url": "http://swapi.co/api/people/77/",
+    "url": "https://swapiapi.herokuapp.com/api/people/77/",
     "id": 77
   },
   {
@@ -1999,13 +1999,13 @@ const people = [
     "eye_color": "black",
     "birth_year": "unknown",
     "gender": "female",
-    "homeworld": "http://swapi.co/api/planets/58/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/58/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "species": [
-      "http://swapi.co/api/species/35/"
+      "https://swapiapi.herokuapp.com/api/species/35/"
     ],
     "vehicles": [
     ],
@@ -2013,7 +2013,7 @@ const people = [
     ],
     "created": "2014-12-20T18:44:01.103000Z",
     "edited": "2014-12-20T21:17:50.486000Z",
-    "url": "http://swapi.co/api/people/78/",
+    "url": "https://swapiapi.herokuapp.com/api/people/78/",
     "id": 78
   },
   {
@@ -2025,22 +2025,22 @@ const people = [
     "eye_color": "green, yellow",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/59/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/59/",
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "species": [
-      "http://swapi.co/api/species/36/"
+      "https://swapiapi.herokuapp.com/api/species/36/"
     ],
     "vehicles": [
-      "http://swapi.co/api/vehicles/60/"
+      "https://swapiapi.herokuapp.com/api/vehicles/60/"
     ],
     "starships": [
-      "http://swapi.co/api/starships/74/"
+      "https://swapiapi.herokuapp.com/api/starships/74/"
     ],
     "created": "2014-12-20T19:43:53.348000Z",
     "edited": "2014-12-20T21:17:50.488000Z",
-    "url": "http://swapi.co/api/people/79/",
+    "url": "https://swapiapi.herokuapp.com/api/people/79/",
     "id": 79
   },
   {
@@ -2052,12 +2052,12 @@ const people = [
     "eye_color": "blue",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/14/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/14/",
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "species": [
-      "http://swapi.co/api/species/3/"
+      "https://swapiapi.herokuapp.com/api/species/3/"
     ],
     "vehicles": [
     ],
@@ -2065,7 +2065,7 @@ const people = [
     ],
     "created": "2014-12-20T19:46:34.209000Z",
     "edited": "2014-12-20T21:17:50.491000Z",
-    "url": "http://swapi.co/api/people/80/",
+    "url": "https://swapiapi.herokuapp.com/api/people/80/",
     "id": 80
   },
   {
@@ -2077,13 +2077,13 @@ const people = [
     "eye_color": "brown",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/2/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/2/",
     "films": [
-      "http://swapi.co/api/films/1/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/1/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
@@ -2091,7 +2091,7 @@ const people = [
     ],
     "created": "2014-12-20T19:49:35.583000Z",
     "edited": "2014-12-20T21:17:50.493000Z",
-    "url": "http://swapi.co/api/people/81/",
+    "url": "https://swapiapi.herokuapp.com/api/people/81/",
     "id": 81
   },
   {
@@ -2103,10 +2103,10 @@ const people = [
     "eye_color": "white",
     "birth_year": "unknown",
     "gender": "female",
-    "homeworld": "http://swapi.co/api/planets/60/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/60/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "species": [
     ],
@@ -2116,7 +2116,7 @@ const people = [
     ],
     "created": "2014-12-20T20:18:37.619000Z",
     "edited": "2014-12-20T21:17:50.496000Z",
-    "url": "http://swapi.co/api/people/82/",
+    "url": "https://swapiapi.herokuapp.com/api/people/82/",
     "id": 82
   },
   {
@@ -2128,12 +2128,12 @@ const people = [
     "eye_color": "black",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/12/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/12/",
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "species": [
-      "http://swapi.co/api/species/37/"
+      "https://swapiapi.herokuapp.com/api/species/37/"
     ],
     "vehicles": [
     ],
@@ -2141,7 +2141,7 @@ const people = [
     ],
     "created": "2014-12-20T20:35:04.260000Z",
     "edited": "2014-12-20T21:17:50.498000Z",
-    "url": "http://swapi.co/api/people/83/",
+    "url": "https://swapiapi.herokuapp.com/api/people/83/",
     "id": 83
   },
   {
@@ -2153,12 +2153,12 @@ const people = [
     "eye_color": "dark",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/28/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/28/",
     "films": [
-      "http://swapi.co/api/films/7/"
+      "https://swapiapi.herokuapp.com/api/films/7/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
@@ -2166,7 +2166,7 @@ const people = [
     ],
     "created": "2015-04-17T06:52:40.793621Z",
     "edited": "2015-04-17T06:52:40.793674Z",
-    "url": "http://swapi.co/api/people/84/",
+    "url": "https://swapiapi.herokuapp.com/api/people/84/",
     "id": 84
   },
   {
@@ -2178,12 +2178,12 @@ const people = [
     "eye_color": "hazel",
     "birth_year": "unknown",
     "gender": "female",
-    "homeworld": "http://swapi.co/api/planets/28/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/28/",
     "films": [
-      "http://swapi.co/api/films/7/"
+      "https://swapiapi.herokuapp.com/api/films/7/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
@@ -2191,7 +2191,7 @@ const people = [
     ],
     "created": "2015-04-17T06:54:01.495077Z",
     "edited": "2015-04-17T06:54:01.495128Z",
-    "url": "http://swapi.co/api/people/85/",
+    "url": "https://swapiapi.herokuapp.com/api/people/85/",
     "id": 85
   },
   {
@@ -2203,21 +2203,21 @@ const people = [
     "eye_color": "brown",
     "birth_year": "unknown",
     "gender": "male",
-    "homeworld": "http://swapi.co/api/planets/28/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/28/",
     "films": [
-      "http://swapi.co/api/films/7/"
+      "https://swapiapi.herokuapp.com/api/films/7/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
     "starships": [
-      "http://swapi.co/api/starships/77/"
+      "https://swapiapi.herokuapp.com/api/starships/77/"
     ],
     "created": "2015-04-17T06:55:21.622786Z",
     "edited": "2015-04-17T06:55:21.622835Z",
-    "url": "http://swapi.co/api/people/86/",
+    "url": "https://swapiapi.herokuapp.com/api/people/86/",
     "id": 86
   },
   {
@@ -2229,12 +2229,12 @@ const people = [
     "eye_color": "black",
     "birth_year": "unknown",
     "gender": "none",
-    "homeworld": "http://swapi.co/api/planets/28/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/28/",
     "films": [
-      "http://swapi.co/api/films/7/"
+      "https://swapiapi.herokuapp.com/api/films/7/"
     ],
     "species": [
-      "http://swapi.co/api/species/2/"
+      "https://swapiapi.herokuapp.com/api/species/2/"
     ],
     "vehicles": [
     ],
@@ -2242,7 +2242,7 @@ const people = [
     ],
     "created": "2015-04-17T06:57:38.061346Z",
     "edited": "2015-04-17T06:57:38.061453Z",
-    "url": "http://swapi.co/api/people/87/",
+    "url": "https://swapiapi.herokuapp.com/api/people/87/",
     "id": 87
   },
   {
@@ -2254,9 +2254,9 @@ const people = [
     "eye_color": "unknown",
     "birth_year": "unknown",
     "gender": "female",
-    "homeworld": "http://swapi.co/api/planets/28/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/28/",
     "films": [
-      "http://swapi.co/api/films/7/"
+      "https://swapiapi.herokuapp.com/api/films/7/"
     ],
     "species": [
     ],
@@ -2266,7 +2266,7 @@ const people = [
     ],
     "created": "2015-10-13T10:35:39.229823Z",
     "edited": "2015-10-13T10:35:39.229894Z",
-    "url": "http://swapi.co/api/people/88/",
+    "url": "https://swapiapi.herokuapp.com/api/people/88/",
     "id": 88
   },
   {
@@ -2278,25 +2278,25 @@ const people = [
     "eye_color": "brown",
     "birth_year": "46BBY",
     "gender": "female",
-    "homeworld": "http://swapi.co/api/planets/8/",
+    "homeworld": "https://swapiapi.herokuapp.com/api/planets/8/",
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/4/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/4/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "species": [
-      "http://swapi.co/api/species/1/"
+      "https://swapiapi.herokuapp.com/api/species/1/"
     ],
     "vehicles": [
     ],
     "starships": [
-      "http://swapi.co/api/starships/49/",
-      "http://swapi.co/api/starships/64/",
-      "http://swapi.co/api/starships/39/"
+      "https://swapiapi.herokuapp.com/api/starships/49/",
+      "https://swapiapi.herokuapp.com/api/starships/64/",
+      "https://swapiapi.herokuapp.com/api/starships/39/"
     ],
     "created": "2014-12-19T17:28:26.926000Z",
     "edited": "2016-04-20T17:06:31.502555Z",
-    "url": "http://swapi.co/api/people/35/",
+    "url": "https://swapiapi.herokuapp.com/api/people/35/",
     "id": 35
   }
 ];

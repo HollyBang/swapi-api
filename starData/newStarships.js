@@ -16,11 +16,11 @@ const starships = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "created": "2014-12-10T15:48:00.586000Z",
     "edited": "2014-12-22T17:35:44.431407Z",
-    "url": "http://swapi.co/api/starships/5/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/5/",
     "id": 5
   },
   {
@@ -40,11 +40,11 @@ const starships = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "created": "2014-12-10T16:36:50.509000Z",
     "edited": "2014-12-22T17:35:44.452589Z",
-    "url": "http://swapi.co/api/starships/9/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/9/",
     "id": 9
   },
   {
@@ -62,20 +62,20 @@ const starships = [
     "MGLT": "75",
     "starship_class": "Light freighter",
     "pilots": [
-      "http://swapi.co/api/people/13/",
-      "http://swapi.co/api/people/14/",
-      "http://swapi.co/api/people/25/",
-      "http://swapi.co/api/people/31/"
+      "https://swapiapi.herokuapp.com/api/people/13/",
+      "https://swapiapi.herokuapp.com/api/people/14/",
+      "https://swapiapi.herokuapp.com/api/people/25/",
+      "https://swapiapi.herokuapp.com/api/people/31/"
     ],
     "films": [
-      "http://swapi.co/api/films/7/",
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/",
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/7/",
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/",
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "created": "2014-12-10T16:59:45.094000Z",
     "edited": "2014-12-22T17:35:44.464156Z",
-    "url": "http://swapi.co/api/starships/10/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/10/",
     "id": 10
   },
   {
@@ -95,13 +95,13 @@ const starships = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/",
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/",
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "created": "2014-12-12T11:00:39.817000Z",
     "edited": "2014-12-22T17:35:44.479706Z",
-    "url": "http://swapi.co/api/starships/11/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/11/",
     "id": 11
   },
   {
@@ -119,19 +119,19 @@ const starships = [
     "MGLT": "100",
     "starship_class": "Starfighter",
     "pilots": [
-      "http://swapi.co/api/people/1/",
-      "http://swapi.co/api/people/9/",
-      "http://swapi.co/api/people/18/",
-      "http://swapi.co/api/people/19/"
+      "https://swapiapi.herokuapp.com/api/people/1/",
+      "https://swapiapi.herokuapp.com/api/people/9/",
+      "https://swapiapi.herokuapp.com/api/people/18/",
+      "https://swapiapi.herokuapp.com/api/people/19/"
     ],
     "films": [
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/",
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/",
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "created": "2014-12-12T11:19:05.340000Z",
     "edited": "2014-12-22T17:35:44.491233Z",
-    "url": "http://swapi.co/api/starships/12/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/12/",
     "id": 12
   },
   {
@@ -149,14 +149,14 @@ const starships = [
     "MGLT": "105",
     "starship_class": "Starfighter",
     "pilots": [
-      "http://swapi.co/api/people/4/"
+      "https://swapiapi.herokuapp.com/api/people/4/"
     ],
     "films": [
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "created": "2014-12-12T11:21:32.991000Z",
     "edited": "2014-12-22T17:35:44.549047Z",
-    "url": "http://swapi.co/api/starships/13/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/13/",
     "id": 13
   },
   {
@@ -176,12 +176,12 @@ const starships = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/"
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/"
     ],
     "created": "2014-12-15T12:31:42.547000Z",
     "edited": "2014-12-22T17:35:44.638231Z",
-    "url": "http://swapi.co/api/starships/15/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/15/",
     "id": 15
   },
   {
@@ -199,15 +199,15 @@ const starships = [
     "MGLT": "70",
     "starship_class": "Patrol craft",
     "pilots": [
-      "http://swapi.co/api/people/22/"
+      "https://swapiapi.herokuapp.com/api/people/22/"
     ],
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/2/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/2/"
     ],
     "created": "2014-12-15T13:00:56.332000Z",
     "edited": "2014-12-22T17:35:44.716273Z",
-    "url": "http://swapi.co/api/starships/21/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/21/",
     "id": 21
   },
   {
@@ -225,17 +225,17 @@ const starships = [
     "MGLT": "50",
     "starship_class": "Armed government transport",
     "pilots": [
-      "http://swapi.co/api/people/1/",
-      "http://swapi.co/api/people/13/",
-      "http://swapi.co/api/people/14/"
+      "https://swapiapi.herokuapp.com/api/people/1/",
+      "https://swapiapi.herokuapp.com/api/people/13/",
+      "https://swapiapi.herokuapp.com/api/people/14/"
     ],
     "films": [
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/"
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/"
     ],
     "created": "2014-12-15T13:04:47.235000Z",
     "edited": "2014-12-22T17:35:44.795405Z",
-    "url": "http://swapi.co/api/starships/22/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/22/",
     "id": 22
   },
   {
@@ -255,12 +255,12 @@ const starships = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/"
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/"
     ],
     "created": "2014-12-15T13:06:30.813000Z",
     "edited": "2014-12-22T17:35:44.848329Z",
-    "url": "http://swapi.co/api/starships/23/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/23/",
     "id": 23
   },
   {
@@ -280,11 +280,11 @@ const starships = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/3/"
+      "https://swapiapi.herokuapp.com/api/films/3/"
     ],
     "created": "2014-12-18T10:54:57.804000Z",
     "edited": "2014-12-22T17:35:44.957852Z",
-    "url": "http://swapi.co/api/starships/27/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/27/",
     "id": 27
   },
   {
@@ -302,14 +302,14 @@ const starships = [
     "MGLT": "120",
     "starship_class": "Starfighter",
     "pilots": [
-      "http://swapi.co/api/people/29/"
+      "https://swapiapi.herokuapp.com/api/people/29/"
     ],
     "films": [
-      "http://swapi.co/api/films/3/"
+      "https://swapiapi.herokuapp.com/api/films/3/"
     ],
     "created": "2014-12-18T11:16:34.542000Z",
     "edited": "2014-12-22T17:35:44.978754Z",
-    "url": "http://swapi.co/api/starships/28/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/28/",
     "id": 28
   },
   {
@@ -329,11 +329,11 @@ const starships = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/3/"
+      "https://swapiapi.herokuapp.com/api/films/3/"
     ],
     "created": "2014-12-18T11:18:04.763000Z",
     "edited": "2014-12-22T17:35:45.011193Z",
-    "url": "http://swapi.co/api/starships/29/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/29/",
     "id": 29
   },
   {
@@ -353,11 +353,11 @@ const starships = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "created": "2014-12-19T17:01:31.488000Z",
     "edited": "2014-12-22T17:35:45.027308Z",
-    "url": "http://swapi.co/api/starships/31/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/31/",
     "id": 31
   },
   {
@@ -375,17 +375,17 @@ const starships = [
     "MGLT": "unknown",
     "starship_class": "Starfighter",
     "pilots": [
-      "http://swapi.co/api/people/11/",
-      "http://swapi.co/api/people/60/",
-      "http://swapi.co/api/people/35/"
+      "https://swapiapi.herokuapp.com/api/people/11/",
+      "https://swapiapi.herokuapp.com/api/people/60/",
+      "https://swapiapi.herokuapp.com/api/people/35/"
     ],
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "created": "2014-12-19T17:39:17.582000Z",
     "edited": "2014-12-22T17:35:45.079452Z",
-    "url": "http://swapi.co/api/starships/39/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/39/",
     "id": 39
   },
   {
@@ -403,14 +403,14 @@ const starships = [
     "MGLT": "unknown",
     "starship_class": "yacht",
     "pilots": [
-      "http://swapi.co/api/people/39/"
+      "https://swapiapi.herokuapp.com/api/people/39/"
     ],
     "films": [
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "created": "2014-12-19T17:45:03.506000Z",
     "edited": "2014-12-22T17:35:45.091925Z",
-    "url": "http://swapi.co/api/starships/40/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/40/",
     "id": 40
   },
   {
@@ -428,14 +428,14 @@ const starships = [
     "MGLT": "unknown",
     "starship_class": "Space Transport",
     "pilots": [
-      "http://swapi.co/api/people/44/"
+      "https://swapiapi.herokuapp.com/api/people/44/"
     ],
     "films": [
-      "http://swapi.co/api/films/4/"
+      "https://swapiapi.herokuapp.com/api/films/4/"
     ],
     "created": "2014-12-20T09:39:56.116000Z",
     "edited": "2014-12-22T17:35:45.105522Z",
-    "url": "http://swapi.co/api/starships/41/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/41/",
     "id": 41
   },
   {
@@ -455,11 +455,11 @@ const starships = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "created": "2014-12-20T11:05:51.237000Z",
     "edited": "2014-12-22T17:35:45.124386Z",
-    "url": "http://swapi.co/api/starships/43/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/43/",
     "id": 43
   },
   {
@@ -479,11 +479,11 @@ const starships = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "created": "2014-12-20T17:24:23.509000Z",
     "edited": "2014-12-22T17:35:45.135987Z",
-    "url": "http://swapi.co/api/starships/47/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/47/",
     "id": 47
   },
   {
@@ -501,16 +501,16 @@ const starships = [
     "MGLT": "unknown",
     "starship_class": "Starfighter",
     "pilots": [
-      "http://swapi.co/api/people/10/",
-      "http://swapi.co/api/people/58/"
+      "https://swapiapi.herokuapp.com/api/people/10/",
+      "https://swapiapi.herokuapp.com/api/people/58/"
     ],
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-20T17:35:23.906000Z",
     "edited": "2014-12-22T17:35:45.147746Z",
-    "url": "http://swapi.co/api/starships/48/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/48/",
     "id": 48
   },
   {
@@ -528,14 +528,14 @@ const starships = [
     "MGLT": "unknown",
     "starship_class": "yacht",
     "pilots": [
-      "http://swapi.co/api/people/35/"
+      "https://swapiapi.herokuapp.com/api/people/35/"
     ],
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "created": "2014-12-20T17:46:46.847000Z",
     "edited": "2014-12-22T17:35:45.158969Z",
-    "url": "http://swapi.co/api/starships/49/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/49/",
     "id": 49
   },
   {
@@ -555,13 +555,13 @@ const starships = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/",
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/",
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "created": "2014-12-10T15:08:19.848000Z",
     "edited": "2014-12-22T17:35:44.410941Z",
-    "url": "http://swapi.co/api/starships/3/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/3/",
     "id": 3
   },
   {
@@ -579,15 +579,15 @@ const starships = [
     "MGLT": "unknown",
     "starship_class": "capital ship",
     "pilots": [
-      "http://swapi.co/api/people/10/",
-      "http://swapi.co/api/people/11/"
+      "https://swapiapi.herokuapp.com/api/people/10/",
+      "https://swapiapi.herokuapp.com/api/people/11/"
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-20T19:40:21.902000Z",
     "edited": "2014-12-22T17:35:45.195165Z",
-    "url": "http://swapi.co/api/starships/59/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/59/",
     "id": 59
   },
   {
@@ -607,11 +607,11 @@ const starships = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-20T19:48:40.409000Z",
     "edited": "2014-12-22T17:35:45.208584Z",
-    "url": "http://swapi.co/api/starships/61/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/61/",
     "id": 61
   },
   {
@@ -629,14 +629,14 @@ const starships = [
     "MGLT": "unknown",
     "starship_class": "fighter",
     "pilots": [
-      "http://swapi.co/api/people/86/"
+      "https://swapiapi.herokuapp.com/api/people/86/"
     ],
     "films": [
-      "http://swapi.co/api/films/7/"
+      "https://swapiapi.herokuapp.com/api/films/7/"
     ],
     "created": "2015-04-17T06:58:50.614475Z",
     "edited": "2015-04-17T06:58:50.614528Z",
-    "url": "http://swapi.co/api/starships/77/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/77/",
     "id": 77
   },
   {
@@ -656,12 +656,12 @@ const starships = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/"
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/"
     ],
     "created": "2014-12-15T12:34:52.264000Z",
     "edited": "2014-12-22T17:35:44.680838Z",
-    "url": "http://swapi.co/api/starships/17/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/17/",
     "id": 17
   },
   {
@@ -681,13 +681,13 @@ const starships = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/4/",
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/4/",
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-19T17:04:06.323000Z",
     "edited": "2014-12-22T17:35:45.042900Z",
-    "url": "http://swapi.co/api/starships/32/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/32/",
     "id": 32
   },
   {
@@ -707,11 +707,11 @@ const starships = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "created": "2014-12-20T18:08:42.926000Z",
     "edited": "2014-12-22T17:35:45.171653Z",
-    "url": "http://swapi.co/api/starships/52/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/52/",
     "id": 52
   },
   {
@@ -731,11 +731,11 @@ const starships = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "created": "2014-12-20T18:37:56.969000Z",
     "edited": "2014-12-22T17:35:45.183075Z",
-    "url": "http://swapi.co/api/starships/58/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/58/",
     "id": 58
   },
   {
@@ -755,11 +755,11 @@ const starships = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-20T19:52:56.232000Z",
     "edited": "2014-12-22T17:35:45.224540Z",
-    "url": "http://swapi.co/api/starships/63/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/63/",
     "id": 63
   },
   {
@@ -777,15 +777,15 @@ const starships = [
     "MGLT": "unknown",
     "starship_class": "yacht",
     "pilots": [
-      "http://swapi.co/api/people/10/",
-      "http://swapi.co/api/people/35/"
+      "https://swapiapi.herokuapp.com/api/people/10/",
+      "https://swapiapi.herokuapp.com/api/people/35/"
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-20T19:55:15.396000Z",
     "edited": "2014-12-22T17:35:45.258859Z",
-    "url": "http://swapi.co/api/starships/64/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/64/",
     "id": 64
   },
   {
@@ -803,15 +803,15 @@ const starships = [
     "MGLT": "unknown",
     "starship_class": "starfighter",
     "pilots": [
-      "http://swapi.co/api/people/10/",
-      "http://swapi.co/api/people/11/"
+      "https://swapiapi.herokuapp.com/api/people/10/",
+      "https://swapiapi.herokuapp.com/api/people/11/"
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-20T19:56:57.468000Z",
     "edited": "2014-12-22T17:35:45.272349Z",
-    "url": "http://swapi.co/api/starships/65/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/65/",
     "id": 65
   },
   {
@@ -831,11 +831,11 @@ const starships = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-20T20:03:48.603000Z",
     "edited": "2014-12-22T17:35:45.287214Z",
-    "url": "http://swapi.co/api/starships/66/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/66/",
     "id": 66
   },
   {
@@ -855,11 +855,11 @@ const starships = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-20T20:07:11.538000Z",
     "edited": "2014-12-22T17:35:45.361585Z",
-    "url": "http://swapi.co/api/starships/68/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/68/",
     "id": 68
   },
   {
@@ -877,15 +877,15 @@ const starships = [
     "MGLT": "unknown",
     "starship_class": "starfighter",
     "pilots": [
-      "http://swapi.co/api/people/10/",
-      "http://swapi.co/api/people/79/"
+      "https://swapiapi.herokuapp.com/api/people/10/",
+      "https://swapiapi.herokuapp.com/api/people/79/"
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-20T20:38:05.031000Z",
     "edited": "2014-12-22T17:35:45.381900Z",
-    "url": "http://swapi.co/api/starships/74/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/74/",
     "id": 74
   },
   {
@@ -905,11 +905,11 @@ const starships = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-20T20:43:04.349000Z",
     "edited": "2014-12-22T17:35:45.396711Z",
-    "url": "http://swapi.co/api/starships/75/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/75/",
     "id": 75
   },
   {
@@ -929,13 +929,13 @@ const starships = [
     "pilots": [
     ],
     "films": [
-      "http://swapi.co/api/films/6/",
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/6/",
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "created": "2014-12-10T14:20:33.369000Z",
     "edited": "2014-12-22T17:35:45.408368Z",
-    "url": "http://swapi.co/api/starships/2/",
+    "url": "https://swapiapi.herokuapp.com/api/starships/2/",
     "id": 2
   }
 ]

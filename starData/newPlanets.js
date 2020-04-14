@@ -10,17 +10,17 @@ const planets = [
     "surface_water": "40",
     "population": "2000000000",
     "residents": [
-      "http://swapi.co/api/people/5/",
-      "http://swapi.co/api/people/68/",
-      "http://swapi.co/api/people/81/"
+      "https://swapiapi.herokuapp.com/api/people/5/",
+      "https://swapiapi.herokuapp.com/api/people/68/",
+      "https://swapiapi.herokuapp.com/api/people/81/"
     ],
     "films": [
-      "http://swapi.co/api/films/6/",
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/6/",
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "created": "2014-12-10T11:35:48.479000Z",
     "edited": "2014-12-20T20:58:18.420000Z",
-    "url": "http://swapi.co/api/planets/2/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/2/",
     "id": 2
   },
   {
@@ -36,11 +36,11 @@ const planets = [
     "residents": [
     ],
     "films": [
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "created": "2014-12-10T11:37:19.144000Z",
     "edited": "2014-12-20T20:58:18.421000Z",
-    "url": "http://swapi.co/api/planets/3/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/3/",
     "id": 3
   },
   {
@@ -56,11 +56,11 @@ const planets = [
     "residents": [
     ],
     "films": [
-      "http://swapi.co/api/films/2/"
+      "https://swapiapi.herokuapp.com/api/films/2/"
     ],
     "created": "2014-12-10T11:39:13.934000Z",
     "edited": "2014-12-20T20:58:18.423000Z",
-    "url": "http://swapi.co/api/planets/4/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/4/",
     "id": 4
   },
   {
@@ -76,13 +76,13 @@ const planets = [
     "residents": [
     ],
     "films": [
-      "http://swapi.co/api/films/6/",
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/2/"
+      "https://swapiapi.herokuapp.com/api/films/6/",
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/2/"
     ],
     "created": "2014-12-10T11:42:22.590000Z",
     "edited": "2014-12-20T20:58:18.425000Z",
-    "url": "http://swapi.co/api/planets/5/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/5/",
     "id": 5
   },
   {
@@ -96,14 +96,14 @@ const planets = [
     "surface_water": "0",
     "population": "6000000",
     "residents": [
-      "http://swapi.co/api/people/26/"
+      "https://swapiapi.herokuapp.com/api/people/26/"
     ],
     "films": [
-      "http://swapi.co/api/films/2/"
+      "https://swapiapi.herokuapp.com/api/films/2/"
     ],
     "created": "2014-12-10T11:43:55.240000Z",
     "edited": "2014-12-20T20:58:18.427000Z",
-    "url": "http://swapi.co/api/planets/6/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/6/",
     "id": 6
   },
   {
@@ -117,14 +117,14 @@ const planets = [
     "surface_water": "8",
     "population": "30000000",
     "residents": [
-      "http://swapi.co/api/people/30/"
+      "https://swapiapi.herokuapp.com/api/people/30/"
     ],
     "films": [
-      "http://swapi.co/api/films/3/"
+      "https://swapiapi.herokuapp.com/api/films/3/"
     ],
     "created": "2014-12-10T11:50:29.349000Z",
     "edited": "2014-12-20T20:58:18.429000Z",
-    "url": "http://swapi.co/api/planets/7/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/7/",
     "id": 7
   },
   {
@@ -138,27 +138,27 @@ const planets = [
     "surface_water": "12",
     "population": "4500000000",
     "residents": [
-      "http://swapi.co/api/people/3/",
-      "http://swapi.co/api/people/21/",
-      "http://swapi.co/api/people/36/",
-      "http://swapi.co/api/people/37/",
-      "http://swapi.co/api/people/38/",
-      "http://swapi.co/api/people/39/",
-      "http://swapi.co/api/people/42/",
-      "http://swapi.co/api/people/60/",
-      "http://swapi.co/api/people/61/",
-      "http://swapi.co/api/people/66/",
-      "http://swapi.co/api/people/35/"
+      "https://swapiapi.herokuapp.com/api/people/3/",
+      "https://swapiapi.herokuapp.com/api/people/21/",
+      "https://swapiapi.herokuapp.com/api/people/36/",
+      "https://swapiapi.herokuapp.com/api/people/37/",
+      "https://swapiapi.herokuapp.com/api/people/38/",
+      "https://swapiapi.herokuapp.com/api/people/39/",
+      "https://swapiapi.herokuapp.com/api/people/42/",
+      "https://swapiapi.herokuapp.com/api/people/60/",
+      "https://swapiapi.herokuapp.com/api/people/61/",
+      "https://swapiapi.herokuapp.com/api/people/66/",
+      "https://swapiapi.herokuapp.com/api/people/35/"
     ],
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/4/",
-      "http://swapi.co/api/films/6/",
-      "http://swapi.co/api/films/3/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/4/",
+      "https://swapiapi.herokuapp.com/api/films/6/",
+      "https://swapiapi.herokuapp.com/api/films/3/"
     ],
     "created": "2014-12-10T11:52:31.066000Z",
     "edited": "2014-12-20T20:58:18.430000Z",
-    "url": "http://swapi.co/api/planets/8/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/8/",
     "id": 8
   },
   {
@@ -172,19 +172,19 @@ const planets = [
     "surface_water": "unknown",
     "population": "1000000000000",
     "residents": [
-      "http://swapi.co/api/people/34/",
-      "http://swapi.co/api/people/55/",
-      "http://swapi.co/api/people/74/"
+      "https://swapiapi.herokuapp.com/api/people/34/",
+      "https://swapiapi.herokuapp.com/api/people/55/",
+      "https://swapiapi.herokuapp.com/api/people/74/"
     ],
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/4/",
-      "http://swapi.co/api/films/6/",
-      "http://swapi.co/api/films/3/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/4/",
+      "https://swapiapi.herokuapp.com/api/films/6/",
+      "https://swapiapi.herokuapp.com/api/films/3/"
     ],
     "created": "2014-12-10T11:54:13.921000Z",
     "edited": "2014-12-20T20:58:18.432000Z",
-    "url": "http://swapi.co/api/planets/9/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/9/",
     "id": 9
   },
   {
@@ -198,16 +198,16 @@ const planets = [
     "surface_water": "100",
     "population": "1000000000",
     "residents": [
-      "http://swapi.co/api/people/22/",
-      "http://swapi.co/api/people/72/",
-      "http://swapi.co/api/people/73/"
+      "https://swapiapi.herokuapp.com/api/people/22/",
+      "https://swapiapi.herokuapp.com/api/people/72/",
+      "https://swapiapi.herokuapp.com/api/people/73/"
     ],
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "created": "2014-12-10T12:45:06.577000Z",
     "edited": "2014-12-20T20:58:18.434000Z",
-    "url": "http://swapi.co/api/planets/10/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/10/",
     "id": 10
   },
   {
@@ -221,14 +221,14 @@ const planets = [
     "surface_water": "5",
     "population": "100000000000",
     "residents": [
-      "http://swapi.co/api/people/63/"
+      "https://swapiapi.herokuapp.com/api/people/63/"
     ],
     "films": [
-      "http://swapi.co/api/films/5/"
+      "https://swapiapi.herokuapp.com/api/films/5/"
     ],
     "created": "2014-12-10T12:47:22.350000Z",
     "edited": "2014-12-20T20:58:18.437000Z",
-    "url": "http://swapi.co/api/planets/11/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/11/",
     "id": 11
   },
   {
@@ -242,14 +242,14 @@ const planets = [
     "surface_water": "0.9",
     "population": "95000000",
     "residents": [
-      "http://swapi.co/api/people/83/"
+      "https://swapiapi.herokuapp.com/api/people/83/"
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-10T12:49:01.491000Z",
     "edited": "2014-12-20T20:58:18.439000Z",
-    "url": "http://swapi.co/api/planets/12/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/12/",
     "id": 12
   },
   {
@@ -265,11 +265,11 @@ const planets = [
     "residents": [
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-10T12:50:16.526000Z",
     "edited": "2014-12-20T20:58:18.440000Z",
-    "url": "http://swapi.co/api/planets/13/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/13/",
     "id": 13
   },
   {
@@ -283,15 +283,15 @@ const planets = [
     "surface_water": "60",
     "population": "45000000",
     "residents": [
-      "http://swapi.co/api/people/13/",
-      "http://swapi.co/api/people/80/"
+      "https://swapiapi.herokuapp.com/api/people/13/",
+      "https://swapiapi.herokuapp.com/api/people/80/"
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-10T13:32:00.124000Z",
     "edited": "2014-12-20T20:58:18.442000Z",
-    "url": "http://swapi.co/api/planets/14/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/14/",
     "id": 14
   },
   {
@@ -307,11 +307,11 @@ const planets = [
     "residents": [
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-10T13:33:46.405000Z",
     "edited": "2014-12-20T20:58:18.444000Z",
-    "url": "http://swapi.co/api/planets/15/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/15/",
     "id": 15
   },
   {
@@ -327,11 +327,11 @@ const planets = [
     "residents": [
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-10T13:43:39.139000Z",
     "edited": "2014-12-20T20:58:18.446000Z",
-    "url": "http://swapi.co/api/planets/16/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/16/",
     "id": 16
   },
   {
@@ -347,11 +347,11 @@ const planets = [
     "residents": [
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-10T13:44:50.397000Z",
     "edited": "2014-12-20T20:58:18.447000Z",
-    "url": "http://swapi.co/api/planets/17/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/17/",
     "id": 17
   },
   {
@@ -365,14 +365,14 @@ const planets = [
     "surface_water": "unknown",
     "population": "10000000",
     "residents": [
-      "http://swapi.co/api/people/33/"
+      "https://swapiapi.herokuapp.com/api/people/33/"
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-10T13:46:28.704000Z",
     "edited": "2014-12-20T20:58:18.449000Z",
-    "url": "http://swapi.co/api/planets/18/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/18/",
     "id": 18
   },
   {
@@ -388,11 +388,11 @@ const planets = [
     "residents": [
     ],
     "films": [
-      "http://swapi.co/api/films/6/"
+      "https://swapiapi.herokuapp.com/api/films/6/"
     ],
     "created": "2014-12-10T13:47:46.874000Z",
     "edited": "2014-12-20T20:58:18.450000Z",
-    "url": "http://swapi.co/api/planets/19/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/19/",
     "id": 19
   },
   {
@@ -406,13 +406,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "unknown",
     "residents": [
-      "http://swapi.co/api/people/10/"
+      "https://swapiapi.herokuapp.com/api/people/10/"
     ],
     "films": [
     ],
     "created": "2014-12-10T16:16:26.566000Z",
     "edited": "2014-12-20T20:58:18.452000Z",
-    "url": "http://swapi.co/api/planets/20/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/20/",
     "id": 20
   },
   {
@@ -426,13 +426,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "22000000000",
     "residents": [
-      "http://swapi.co/api/people/12/"
+      "https://swapiapi.herokuapp.com/api/people/12/"
     ],
     "films": [
     ],
     "created": "2014-12-10T16:26:54.384000Z",
     "edited": "2014-12-20T20:58:18.454000Z",
-    "url": "http://swapi.co/api/planets/21/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/21/",
     "id": 21
   },
   {
@@ -446,14 +446,14 @@ const planets = [
     "surface_water": "70",
     "population": "3000000000",
     "residents": [
-      "http://swapi.co/api/people/14/",
-      "http://swapi.co/api/people/18/"
+      "https://swapiapi.herokuapp.com/api/people/14/",
+      "https://swapiapi.herokuapp.com/api/people/18/"
     ],
     "films": [
     ],
     "created": "2014-12-10T16:49:12.453000Z",
     "edited": "2014-12-20T20:58:18.456000Z",
-    "url": "http://swapi.co/api/planets/22/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/22/",
     "id": 22
   },
   {
@@ -467,13 +467,13 @@ const planets = [
     "surface_water": "60",
     "population": "1300000000",
     "residents": [
-      "http://swapi.co/api/people/15/"
+      "https://swapiapi.herokuapp.com/api/people/15/"
     ],
     "films": [
     ],
     "created": "2014-12-10T17:03:28.110000Z",
     "edited": "2014-12-20T20:58:18.458000Z",
-    "url": "http://swapi.co/api/planets/23/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/23/",
     "id": 23
   },
   {
@@ -487,13 +487,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "7000000000",
     "residents": [
-      "http://swapi.co/api/people/16/"
+      "https://swapiapi.herokuapp.com/api/people/16/"
     ],
     "films": [
     ],
     "created": "2014-12-10T17:11:29.452000Z",
     "edited": "2014-12-20T20:58:18.460000Z",
-    "url": "http://swapi.co/api/planets/24/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/24/",
     "id": 24
   },
   {
@@ -512,7 +512,7 @@ const planets = [
     ],
     "created": "2014-12-10T17:23:29.896000Z",
     "edited": "2014-12-20T20:58:18.461000Z",
-    "url": "http://swapi.co/api/planets/25/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/25/",
     "id": 25
   },
   {
@@ -526,13 +526,13 @@ const planets = [
     "surface_water": "98",
     "population": "62000000",
     "residents": [
-      "http://swapi.co/api/people/19/"
+      "https://swapiapi.herokuapp.com/api/people/19/"
     ],
     "films": [
     ],
     "created": "2014-12-12T11:16:55.078000Z",
     "edited": "2014-12-20T20:58:18.463000Z",
-    "url": "http://swapi.co/api/planets/26/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/26/",
     "id": 26
   },
   {
@@ -548,11 +548,11 @@ const planets = [
     "residents": [
     ],
     "films": [
-      "http://swapi.co/api/films/2/"
+      "https://swapiapi.herokuapp.com/api/films/2/"
     ],
     "created": "2014-12-15T12:23:41.661000Z",
     "edited": "2014-12-20T20:58:18.464000Z",
-    "url": "http://swapi.co/api/planets/27/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/27/",
     "id": 27
   },
   {
@@ -566,22 +566,22 @@ const planets = [
     "surface_water": "unknown",
     "population": "unknown",
     "residents": [
-      "http://swapi.co/api/people/20/",
-      "http://swapi.co/api/people/23/",
-      "http://swapi.co/api/people/29/",
-      "http://swapi.co/api/people/32/",
-      "http://swapi.co/api/people/75/",
-      "http://swapi.co/api/people/84/",
-      "http://swapi.co/api/people/85/",
-      "http://swapi.co/api/people/86/",
-      "http://swapi.co/api/people/87/",
-      "http://swapi.co/api/people/88/"
+      "https://swapiapi.herokuapp.com/api/people/20/",
+      "https://swapiapi.herokuapp.com/api/people/23/",
+      "https://swapiapi.herokuapp.com/api/people/29/",
+      "https://swapiapi.herokuapp.com/api/people/32/",
+      "https://swapiapi.herokuapp.com/api/people/75/",
+      "https://swapiapi.herokuapp.com/api/people/84/",
+      "https://swapiapi.herokuapp.com/api/people/85/",
+      "https://swapiapi.herokuapp.com/api/people/86/",
+      "https://swapiapi.herokuapp.com/api/people/87/",
+      "https://swapiapi.herokuapp.com/api/people/88/"
     ],
     "films": [
     ],
     "created": "2014-12-15T12:25:59.569000Z",
     "edited": "2014-12-20T20:58:18.466000Z",
-    "url": "http://swapi.co/api/planets/28/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/28/",
     "id": 28
   },
   {
@@ -595,13 +595,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "42000000",
     "residents": [
-      "http://swapi.co/api/people/24/"
+      "https://swapiapi.herokuapp.com/api/people/24/"
     ],
     "films": [
     ],
     "created": "2014-12-15T12:53:47.695000Z",
     "edited": "2014-12-20T20:58:18.468000Z",
-    "url": "http://swapi.co/api/planets/29/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/29/",
     "id": 29
   },
   {
@@ -615,13 +615,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "300000000",
     "residents": [
-      "http://swapi.co/api/people/25/"
+      "https://swapiapi.herokuapp.com/api/people/25/"
     ],
     "films": [
     ],
     "created": "2014-12-15T12:56:31.121000Z",
     "edited": "2014-12-20T20:58:18.469000Z",
-    "url": "http://swapi.co/api/planets/30/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/30/",
     "id": 30
   },
   {
@@ -635,13 +635,13 @@ const planets = [
     "surface_water": "100",
     "population": "27000000000",
     "residents": [
-      "http://swapi.co/api/people/27/"
+      "https://swapiapi.herokuapp.com/api/people/27/"
     ],
     "films": [
     ],
     "created": "2014-12-18T11:07:01.792000Z",
     "edited": "2014-12-20T20:58:18.471000Z",
-    "url": "http://swapi.co/api/planets/31/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/31/",
     "id": 31
   },
   {
@@ -655,13 +655,13 @@ const planets = [
     "surface_water": "40",
     "population": "1200000000",
     "residents": [
-      "http://swapi.co/api/people/28/"
+      "https://swapiapi.herokuapp.com/api/people/28/"
     ],
     "films": [
     ],
     "created": "2014-12-18T11:11:51.872000Z",
     "edited": "2014-12-20T20:58:18.472000Z",
-    "url": "http://swapi.co/api/planets/32/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/32/",
     "id": 32
   },
   {
@@ -675,13 +675,13 @@ const planets = [
     "surface_water": "5",
     "population": "18500000000",
     "residents": [
-      "http://swapi.co/api/people/31/"
+      "https://swapiapi.herokuapp.com/api/people/31/"
     ],
     "films": [
     ],
     "created": "2014-12-18T11:25:40.243000Z",
     "edited": "2014-12-20T20:58:18.474000Z",
-    "url": "http://swapi.co/api/planets/33/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/33/",
     "id": 33
   },
   {
@@ -695,13 +695,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "11000000",
     "residents": [
-      "http://swapi.co/api/people/40/"
+      "https://swapiapi.herokuapp.com/api/people/40/"
     ],
     "films": [
     ],
     "created": "2014-12-19T17:47:54.403000Z",
     "edited": "2014-12-20T20:58:18.476000Z",
-    "url": "http://swapi.co/api/planets/34/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/34/",
     "id": 34
   },
   {
@@ -715,13 +715,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "2000000000",
     "residents": [
-      "http://swapi.co/api/people/41/"
+      "https://swapiapi.herokuapp.com/api/people/41/"
     ],
     "films": [
     ],
     "created": "2014-12-19T17:52:13.106000Z",
     "edited": "2014-12-20T20:58:18.478000Z",
-    "url": "http://swapi.co/api/planets/35/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/35/",
     "id": 35
   },
   {
@@ -735,13 +735,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "5200",
     "residents": [
-      "http://swapi.co/api/people/44/"
+      "https://swapiapi.herokuapp.com/api/people/44/"
     ],
     "films": [
     ],
     "created": "2014-12-19T18:00:40.142000Z",
     "edited": "2014-12-20T20:58:18.480000Z",
-    "url": "http://swapi.co/api/planets/36/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/36/",
     "id": 36
   },
   {
@@ -755,14 +755,14 @@ const planets = [
     "surface_water": "5",
     "population": "1500000000",
     "residents": [
-      "http://swapi.co/api/people/45/",
-      "http://swapi.co/api/people/46/"
+      "https://swapiapi.herokuapp.com/api/people/45/",
+      "https://swapiapi.herokuapp.com/api/people/46/"
     ],
     "films": [
     ],
     "created": "2014-12-20T09:46:25.740000Z",
     "edited": "2014-12-20T20:58:18.481000Z",
-    "url": "http://swapi.co/api/planets/37/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/37/",
     "id": 37
   },
   {
@@ -776,13 +776,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "unknown",
     "residents": [
-      "http://swapi.co/api/people/47/"
+      "https://swapiapi.herokuapp.com/api/people/47/"
     ],
     "films": [
     ],
     "created": "2014-12-20T09:52:23.452000Z",
     "edited": "2014-12-20T20:58:18.483000Z",
-    "url": "http://swapi.co/api/planets/38/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/38/",
     "id": 38
   },
   {
@@ -796,13 +796,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "421000000",
     "residents": [
-      "http://swapi.co/api/people/48/"
+      "https://swapiapi.herokuapp.com/api/people/48/"
     ],
     "films": [
     ],
     "created": "2014-12-20T09:56:58.874000Z",
     "edited": "2014-12-20T20:58:18.485000Z",
-    "url": "http://swapi.co/api/planets/39/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/39/",
     "id": 39
   },
   {
@@ -816,13 +816,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "unknown",
     "residents": [
-      "http://swapi.co/api/people/49/"
+      "https://swapiapi.herokuapp.com/api/people/49/"
     ],
     "films": [
     ],
     "created": "2014-12-20T10:01:37.395000Z",
     "edited": "2014-12-20T20:58:18.487000Z",
-    "url": "http://swapi.co/api/planets/40/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/40/",
     "id": 40
   },
   {
@@ -836,13 +836,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "0",
     "residents": [
-      "http://swapi.co/api/people/50/"
+      "https://swapiapi.herokuapp.com/api/people/50/"
     ],
     "films": [
     ],
     "created": "2014-12-20T10:07:29.578000Z",
     "edited": "2014-12-20T20:58:18.489000Z",
-    "url": "http://swapi.co/api/planets/41/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/41/",
     "id": 41
   },
   {
@@ -856,13 +856,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "705300",
     "residents": [
-      "http://swapi.co/api/people/51/"
+      "https://swapiapi.herokuapp.com/api/people/51/"
     ],
     "films": [
     ],
     "created": "2014-12-20T10:12:28.980000Z",
     "edited": "2014-12-20T20:58:18.491000Z",
-    "url": "http://swapi.co/api/planets/42/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/42/",
     "id": 42
   },
   {
@@ -876,13 +876,13 @@ const planets = [
     "surface_water": "20",
     "population": "450000000",
     "residents": [
-      "http://swapi.co/api/people/52/"
+      "https://swapiapi.herokuapp.com/api/people/52/"
     ],
     "films": [
     ],
     "created": "2014-12-20T10:14:48.178000Z",
     "edited": "2014-12-20T20:58:18.493000Z",
-    "url": "http://swapi.co/api/planets/43/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/43/",
     "id": 43
   },
   {
@@ -896,13 +896,13 @@ const planets = [
     "surface_water": "80",
     "population": "500000000",
     "residents": [
-      "http://swapi.co/api/people/53/"
+      "https://swapiapi.herokuapp.com/api/people/53/"
     ],
     "films": [
     ],
     "created": "2014-12-20T10:18:26.110000Z",
     "edited": "2014-12-20T20:58:18.495000Z",
-    "url": "http://swapi.co/api/planets/44/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/44/",
     "id": 44
   },
   {
@@ -916,13 +916,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "unknown",
     "residents": [
-      "http://swapi.co/api/people/54/"
+      "https://swapiapi.herokuapp.com/api/people/54/"
     ],
     "films": [
     ],
     "created": "2014-12-20T10:26:05.788000Z",
     "edited": "2014-12-20T20:58:18.497000Z",
-    "url": "http://swapi.co/api/planets/45/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/45/",
     "id": 45
   },
   {
@@ -941,7 +941,7 @@ const planets = [
     ],
     "created": "2014-12-20T10:28:31.117000Z",
     "edited": "2014-12-20T20:58:18.498000Z",
-    "url": "http://swapi.co/api/planets/46/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/46/",
     "id": 46
   },
   {
@@ -955,13 +955,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "unknown",
     "residents": [
-      "http://swapi.co/api/people/56/"
+      "https://swapiapi.herokuapp.com/api/people/56/"
     ],
     "films": [
     ],
     "created": "2014-12-20T10:31:32.413000Z",
     "edited": "2014-12-20T20:58:18.500000Z",
-    "url": "http://swapi.co/api/planets/47/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/47/",
     "id": 47
   },
   {
@@ -975,13 +975,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "unknown",
     "residents": [
-      "http://swapi.co/api/people/57/"
+      "https://swapiapi.herokuapp.com/api/people/57/"
     ],
     "films": [
     ],
     "created": "2014-12-20T10:34:08.249000Z",
     "edited": "2014-12-20T20:58:18.502000Z",
-    "url": "http://swapi.co/api/planets/48/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/48/",
     "id": 48
   },
   {
@@ -995,13 +995,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "unknown",
     "residents": [
-      "http://swapi.co/api/people/58/"
+      "https://swapiapi.herokuapp.com/api/people/58/"
     ],
     "films": [
     ],
     "created": "2014-12-20T10:48:36.141000Z",
     "edited": "2014-12-20T20:58:18.504000Z",
-    "url": "http://swapi.co/api/planets/49/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/49/",
     "id": 49
   },
   {
@@ -1015,13 +1015,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "3500000000",
     "residents": [
-      "http://swapi.co/api/people/59/"
+      "https://swapiapi.herokuapp.com/api/people/59/"
     ],
     "films": [
     ],
     "created": "2014-12-20T10:52:51.524000Z",
     "edited": "2014-12-20T20:58:18.506000Z",
-    "url": "http://swapi.co/api/planets/50/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/50/",
     "id": 50
   },
   {
@@ -1035,14 +1035,14 @@ const planets = [
     "surface_water": "unknown",
     "population": "unknown",
     "residents": [
-      "http://swapi.co/api/people/64/",
-      "http://swapi.co/api/people/65/"
+      "https://swapiapi.herokuapp.com/api/people/64/",
+      "https://swapiapi.herokuapp.com/api/people/65/"
     ],
     "films": [
     ],
     "created": "2014-12-20T16:44:46.318000Z",
     "edited": "2014-12-20T20:58:18.508000Z",
-    "url": "http://swapi.co/api/planets/51/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/51/",
     "id": 51
   },
   {
@@ -1056,13 +1056,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "unknown",
     "residents": [
-      "http://swapi.co/api/people/67/"
+      "https://swapiapi.herokuapp.com/api/people/67/"
     ],
     "films": [
     ],
     "created": "2014-12-20T16:52:13.357000Z",
     "edited": "2014-12-20T20:58:18.510000Z",
-    "url": "http://swapi.co/api/planets/52/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/52/",
     "id": 52
   },
   {
@@ -1076,13 +1076,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "unknown",
     "residents": [
-      "http://swapi.co/api/people/69/"
+      "https://swapiapi.herokuapp.com/api/people/69/"
     ],
     "films": [
     ],
     "created": "2014-12-20T16:54:39.909000Z",
     "edited": "2014-12-20T20:58:18.512000Z",
-    "url": "http://swapi.co/api/planets/53/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/53/",
     "id": 53
   },
   {
@@ -1096,13 +1096,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "unknown",
     "residents": [
-      "http://swapi.co/api/people/70/"
+      "https://swapiapi.herokuapp.com/api/people/70/"
     ],
     "films": [
     ],
     "created": "2014-12-20T16:56:37.250000Z",
     "edited": "2014-12-20T20:58:18.514000Z",
-    "url": "http://swapi.co/api/planets/54/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/54/",
     "id": 54
   },
   {
@@ -1116,13 +1116,13 @@ const planets = [
     "surface_water": "100",
     "population": "500000000",
     "residents": [
-      "http://swapi.co/api/people/71/"
+      "https://swapiapi.herokuapp.com/api/people/71/"
     ],
     "films": [
     ],
     "created": "2014-12-20T17:27:41.286000Z",
     "edited": "2014-12-20T20:58:18.516000Z",
-    "url": "http://swapi.co/api/planets/55/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/55/",
     "id": 55
   },
   {
@@ -1136,13 +1136,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "500000000000",
     "residents": [
-      "http://swapi.co/api/people/76/"
+      "https://swapiapi.herokuapp.com/api/people/76/"
     ],
     "films": [
     ],
     "created": "2014-12-20T17:50:47.864000Z",
     "edited": "2014-12-20T20:58:18.517000Z",
-    "url": "http://swapi.co/api/planets/56/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/56/",
     "id": 56
   },
   {
@@ -1156,13 +1156,13 @@ const planets = [
     "surface_water": "25",
     "population": "5000000000",
     "residents": [
-      "http://swapi.co/api/people/77/"
+      "https://swapiapi.herokuapp.com/api/people/77/"
     ],
     "films": [
     ],
     "created": "2014-12-20T17:57:47.420000Z",
     "edited": "2014-12-20T20:58:18.519000Z",
-    "url": "http://swapi.co/api/planets/57/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/57/",
     "id": 57
   },
   {
@@ -1176,13 +1176,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "unknown",
     "residents": [
-      "http://swapi.co/api/people/78/"
+      "https://swapiapi.herokuapp.com/api/people/78/"
     ],
     "films": [
     ],
     "created": "2014-12-20T18:43:14.049000Z",
     "edited": "2014-12-20T20:58:18.521000Z",
-    "url": "http://swapi.co/api/planets/58/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/58/",
     "id": 58
   },
   {
@@ -1196,13 +1196,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "4000000000",
     "residents": [
-      "http://swapi.co/api/people/79/"
+      "https://swapiapi.herokuapp.com/api/people/79/"
     ],
     "films": [
     ],
     "created": "2014-12-20T19:43:51.278000Z",
     "edited": "2014-12-20T20:58:18.523000Z",
-    "url": "http://swapi.co/api/planets/59/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/59/",
     "id": 59
   },
   {
@@ -1216,13 +1216,13 @@ const planets = [
     "surface_water": "unknown",
     "population": "unknown",
     "residents": [
-      "http://swapi.co/api/people/82/"
+      "https://swapiapi.herokuapp.com/api/people/82/"
     ],
     "films": [
     ],
     "created": "2014-12-20T20:18:36.256000Z",
     "edited": "2014-12-20T20:58:18.525000Z",
-    "url": "http://swapi.co/api/planets/60/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/60/",
     "id": 60
   },
   {
@@ -1236,27 +1236,27 @@ const planets = [
     "surface_water": "1",
     "population": "200000",
     "residents": [
-      "http://swapi.co/api/people/1/",
-      "http://swapi.co/api/people/2/",
-      "http://swapi.co/api/people/4/",
-      "http://swapi.co/api/people/6/",
-      "http://swapi.co/api/people/7/",
-      "http://swapi.co/api/people/8/",
-      "http://swapi.co/api/people/9/",
-      "http://swapi.co/api/people/11/",
-      "http://swapi.co/api/people/43/",
-      "http://swapi.co/api/people/62/"
+      "https://swapiapi.herokuapp.com/api/people/1/",
+      "https://swapiapi.herokuapp.com/api/people/2/",
+      "https://swapiapi.herokuapp.com/api/people/4/",
+      "https://swapiapi.herokuapp.com/api/people/6/",
+      "https://swapiapi.herokuapp.com/api/people/7/",
+      "https://swapiapi.herokuapp.com/api/people/8/",
+      "https://swapiapi.herokuapp.com/api/people/9/",
+      "https://swapiapi.herokuapp.com/api/people/11/",
+      "https://swapiapi.herokuapp.com/api/people/43/",
+      "https://swapiapi.herokuapp.com/api/people/62/"
     ],
     "films": [
-      "http://swapi.co/api/films/5/",
-      "http://swapi.co/api/films/4/",
-      "http://swapi.co/api/films/6/",
-      "http://swapi.co/api/films/3/",
-      "http://swapi.co/api/films/1/"
+      "https://swapiapi.herokuapp.com/api/films/5/",
+      "https://swapiapi.herokuapp.com/api/films/4/",
+      "https://swapiapi.herokuapp.com/api/films/6/",
+      "https://swapiapi.herokuapp.com/api/films/3/",
+      "https://swapiapi.herokuapp.com/api/films/1/"
     ],
     "created": "2014-12-09T13:50:49.641000Z",
     "edited": "2014-12-21T20:48:04.175778Z",
-    "url": "http://swapi.co/api/planets/1/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/1/",
     "id": 1
   },
   {
@@ -1272,11 +1272,11 @@ const planets = [
     "residents": [
     ],
     "films": [
-      "http://swapi.co/api/films/7/"
+      "https://swapiapi.herokuapp.com/api/films/7/"
     ],
     "created": "2015-04-17T06:55:57.556495Z",
     "edited": "2015-04-17T06:55:57.556551Z",
-    "url": "http://swapi.co/api/planets/61/",
+    "url": "https://swapiapi.herokuapp.com/api/planets/61/",
     "id": 61
   }
 ]
