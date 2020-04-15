@@ -33,6 +33,10 @@ const people = require('../../starData/newPeople.js');
  * @param {callback} middleware - Express middleware.
  */
 router.get('/people', (req, res) => {
+  const count = Number(req.query.count);
+  if(count) {
+    res.send(people.slice(0, count));
+  }
   res.send(people);
 })
 
@@ -51,13 +55,17 @@ router.get('/people', (req, res) => {
  * @param {callback} middleware - Express middleware.
  */
 router.get('/people/:id', (req, res) => {
-  const id  = Number(req.params.id);
-  const human = people.find(human => human.id === id);
+  const ids =  req.params.id.split(',').map(Number);
+  
+  const humanData = people.filter(human => {
+    console.log(human)
+    if(ids.indexOf(human.id) !== -1) return true;
+  });
 
-  if(!human) {
-    res.status(404).send('Human not found');
+  if(humanData.length > 0) {
+    res.status(200).send(humanData);
   } else {
-    res.status(200).send(human);
+    res.status(404).send('Human not found');
   }
 })
 
