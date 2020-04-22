@@ -34,11 +34,23 @@ const people = require('../../starData/newPeople.js');
  */
 router.get('/people', (req, res) => {
   const count = Number(req.query.count);
+  const page = Number(req.query.page);
   if(count) {
     res.send(people.slice(0, count));
   }
+  if(page) {
+    const pageCount = Math.ceil(people.length / 9);
+    if (page > pageCount) page = pageCount;
+    console.log(people.slice(page * 9 - 9, page * 9));
+    res.json({
+      page,
+      pageCount,
+      data: people.slice(people.slice(page * 9 - 9, page * 9))
+    })
+  }
   res.send(people);
 })
+
 
 
 /**
@@ -58,7 +70,6 @@ router.get('/people/:id', (req, res) => {
   const ids =  req.params.id.split(',').map(Number);
   
   const humanData = people.filter(human => {
-    console.log(human)
     if(ids.indexOf(human.id) !== -1) return true;
   });
 
