@@ -1,5 +1,9 @@
 "use strict";
 
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports["default"] = void 0;
 var starships = [{
   "name": "Sentinel-class landing craft",
   "model": "Sentinel-class landing craft",
@@ -741,4 +745,5 @@ var starships = [{
   "url": "https://swapiapi.herokuapp.com/api/starships/2/",
   "id": 2
 }];
-module.exports = starships;
+var _default = starships;
+exports["default"] = _default;

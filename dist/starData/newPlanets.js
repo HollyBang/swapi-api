@@ -1,5 +1,9 @@
 "use strict";
 
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports["default"] = void 0;
 var planets = [{
   "name": "Alderaan",
   "rotation_period": "24",
@@ -977,4 +981,5 @@ var planets = [{
   "url": "https://swapiapi.herokuapp.com/api/planets/61/",
   "id": 61
 }];
-module.exports = planets;
+var _default = planets;
+exports["default"] = _default;

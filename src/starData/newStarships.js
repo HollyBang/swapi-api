@@ -940,4 +940,4 @@ const starships = [
   }
 ]
 
-module.exports = starships;
+export default starships;

@@ -9,8 +9,8 @@ app.use(cors());
 
 app.use(express.static(path.resolve(__dirname, '../out')));
 app.use('/', apiRouter);
-app.get('/', (request, response) => {
-  response.sendFile(path.resolve(__dirname, '../out', 'index.html'));
+app.get('/', (req, res) => {
+  res.sendFile(path.resolve(__dirname, '../out', 'index.html'));
 });
 
 // require('./routes/api/index.js')(app);

@@ -882,4 +882,4 @@ const vehicles = [
   }
 ]
 
-module.exports = vehicles;
+export default vehicles;

@@ -1,5 +1,9 @@
 "use strict";
 
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports["default"] = void 0;
 var vehicles = [{
   "name": "Sand Crawler",
   "model": "Digger Crawler",
@@ -703,4 +707,5 @@ var vehicles = [{
   "url": "https://swapiapi.herokuapp.com/api/vehicles/57/",
   "id": 57
 }];
-module.exports = vehicles;
+var _default = vehicles;
+exports["default"] = _default;

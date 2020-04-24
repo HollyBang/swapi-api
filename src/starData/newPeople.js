@@ -2301,4 +2301,4 @@ const people = [
   }
 ];
 
-module.exports = people;
+export default people;

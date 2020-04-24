@@ -1,5 +1,9 @@
 "use strict";
 
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports["default"] = void 0;
 var species = [{
   "name": "Hutt",
   "classification": "gastropod",
@@ -630,4 +634,5 @@ var species = [{
   "url": "https://swapiapi.herokuapp.com/api/species/4/",
   "id": 4
 }];
-module.exports = species;
+var _default = species;
+exports["default"] = _default;

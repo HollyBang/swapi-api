@@ -1281,4 +1281,4 @@ const planets = [
   }
 ]
 
-module.exports = planets;
+export default planets;

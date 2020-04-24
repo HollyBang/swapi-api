@@ -33,7 +33,7 @@ export const mainController = (req, res) => {
     res.send({
       page,
       pageCount,
-      data: dataConfig[routeName].slice(dataConfig[routeName].slice(page * 9 - 9, page * 9))
+      data: dataConfig[routeName].slice(page * 9 - 9, page * 9)
     })
     return;
   }

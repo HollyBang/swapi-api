@@ -899,4 +899,4 @@ const species = [
   }
 ]
 
-module.exports = species;
+export default species;

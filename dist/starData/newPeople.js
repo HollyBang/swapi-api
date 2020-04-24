@@ -1,5 +1,9 @@
 "use strict";
 
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports["default"] = void 0;
 var people = [{
   "name": "Luke Skywalker",
   "height": "172",
@@ -1567,4 +1571,5 @@ var people = [{
   "url": "https://swapiapi.herokuapp.com/api/people/35/",
   "id": 35
 }];
-module.exports = people;
+var _default = people;
+exports["default"] = _default;
