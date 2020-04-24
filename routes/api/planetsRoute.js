@@ -7,7 +7,7 @@
  * express module
  * @const
  */
-const express = require('express');
+import express from 'express';
 
 /**
  * Express router to mount user related functions on.
@@ -17,7 +17,7 @@ const express = require('express');
  */
 const router = express.Router();
 
-const planets = require('../../starData/newPlanets.js');
+import { mainController, getIdController  } from '../../controllers/apiControllers/index.js';
 
 /**
  * Route serving planets get.
@@ -28,19 +28,8 @@ const planets = require('../../starData/newPlanets.js');
  * @param {string} path - Express path
  * @param {callback} middleware - Express middleware.
  */
-router.get('/planets', (req, res) => {
-  res.send(planets);
-})
+router.get('/planets', mainController)
 
-router.get('/planets/:id', (req, res) => {
-  const id  = Number(req.params.id);
-  const planet = planets.find(planet => planet.id === id);
-
-  if(!planet) {
-    res.status(404).send('Planet not found');
-  } else {
-    res.status(200).send(planet);
-  }
-})
+router.get('/planets/:id', getIdController)
 
 module.exports = router;

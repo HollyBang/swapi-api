@@ -1,20 +1,20 @@
-// const peopleRoute = require('./peopleRoute.js');
-// const planetsRoute = require('./planetsRoute.js');
-// const filmsRoute = require('./filmsRoute.js');
-// const speciesRoute = require('./speciesRoute.js');
-// const starshipsRoute = require('./starshipsRoute.js');
-// const vehiclesRoute = require('./vehiclesRoute.js');
-
-// module.exports = (app) => {
-//   app.use('/api', peopleRoute);
-//   app.use('/api', planetsRoute);
-//   app.use('/api', filmsRoute);
-//   app.use('/api', speciesRoute);
-//   app.use('/api', starshipsRoute);
-//   app.use('/api', vehiclesRoute);
-// }
 import express from 'express';
-const router = express.Router();
-import filmsRoute from './filmsRoute.js';
-router.use('/api', filmsRoute)
-export default router;
+const apiRouter = express.Router();
+
+
+import peopleRoute from './peopleRoute.js';
+import planetsRoute from './planetsRoute.js';
+import filmsRoute from './filmsRoute';
+import speciesRoute from './speciesRoute.js';
+import starshipsRoute from './starshipsRoute.js';
+import vehiclesRoute from './vehiclesRoute.js';
+
+
+apiRouter.use('/api', peopleRoute);
+apiRouter.use('/api', planetsRoute);
+apiRouter.use('/api', filmsRoute);
+apiRouter.use('/api', speciesRoute);
+apiRouter.use('/api', starshipsRoute);
+apiRouter.use('/api', vehiclesRoute);
+
+export default apiRouter;
