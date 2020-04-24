@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node dist/index.js",
+    "build": "babel src --out-dir dist",
     "dev": "nodemon --exec babel-node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "doc": "jsdoc -c ./conf.json -r"
@@ -14,10 +15,10 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
-    "mongoose": "^5.9.7"
+    "express": "^4.17.1"
   },
   "devDependencies": {
+    "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.0",
     "@babel/node": "^7.8.7",
     "@babel/preset-env": "^7.9.5",

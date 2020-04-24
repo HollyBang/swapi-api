@@ -7,10 +7,10 @@ const PORT = process.env.PORT || 5000;
 
 app.use(cors());
 
-app.use(express.static(path.resolve(__dirname, 'out')));
+app.use(express.static(path.resolve(__dirname, '../out')));
 app.use('/', apiRouter);
 app.get('/', (request, response) => {
-  response.sendFile(path.resolve(__dirname, 'out', 'index.html'));
+  response.sendFile(path.resolve(__dirname, '../out', 'index.html'));
 });
 
 // require('./routes/api/index.js')(app);
