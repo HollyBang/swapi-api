@@ -1,7 +1,7 @@
-const express = require('express');
+import express from 'express';
 const router = express.Router();
 
-const films = require('../../starData/newFilms.js');
+import films from '../../starData/newFilms.js';
 
 
 router.get('/films', (req, res) => {
@@ -19,4 +19,4 @@ router.get('/films/:id', (req, res) => {
   }
 })
 
-module.exports = router;
+export default router;

@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon index.js",
+    "dev": "nodemon --exec babel-node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "doc": "jsdoc -c ./conf.json -r"
   },
@@ -18,6 +18,9 @@
     "mongoose": "^5.9.7"
   },
   "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/node": "^7.8.7",
+    "@babel/preset-env": "^7.9.5",
     "jsdoc": "^3.6.4",
     "nodemon": "^2.0.3"
   }

@@ -544,4 +544,4 @@ const films = [
   }
 ]
 
-module.exports = films;
+export default films;
