@@ -12,6 +12,7 @@ const vehicles = [
     "consumables": "2 months",
     "vehicle_class": "wheeled",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/5/",
@@ -20,7 +21,8 @@ const vehicles = [
     "created": "2014-12-10T15:36:25.724000Z",
     "edited": "2014-12-22T18:21:15.523587Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/4/",
-    "id": 4
+    "id": 4,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/SandCrawler.jpg"
   },
   {
     "name": "T-16 skyhopper",
@@ -35,6 +37,7 @@ const vehicles = [
     "consumables": "0",
     "vehicle_class": "repulsorcraft",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/1/"
@@ -42,7 +45,8 @@ const vehicles = [
     "created": "2014-12-10T16:01:52.434000Z",
     "edited": "2014-12-22T18:21:15.552614Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/6/",
-    "id": 6
+    "id": 6,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/T-16skyhopper.jpg"
   },
   {
     "name": "X-34 landspeeder",
@@ -57,6 +61,7 @@ const vehicles = [
     "consumables": "unknown",
     "vehicle_class": "repulsorcraft",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/1/"
@@ -64,7 +69,8 @@ const vehicles = [
     "created": "2014-12-10T16:13:52.586000Z",
     "edited": "2014-12-22T18:21:15.583700Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/7/",
-    "id": 7
+    "id": 7,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/X-34landspeeder.jpg"
   },
   {
     "name": "TIE/LN starfighter",
@@ -79,6 +85,7 @@ const vehicles = [
     "consumables": "2 days",
     "vehicle_class": "starfighter",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/3/",
@@ -88,7 +95,8 @@ const vehicles = [
     "created": "2014-12-10T16:33:52.860000Z",
     "edited": "2014-12-22T18:21:15.606149Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/8/",
-    "id": 8
+    "id": 8,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/TIELNstarfighter.jpg"
   },
   {
     "name": "Snowspeeder",
@@ -112,7 +120,8 @@ const vehicles = [
     "created": "2014-12-15T12:22:12Z",
     "edited": "2014-12-22T18:21:15.623033Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/14/",
-    "id": 14
+    "id": 14,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/Snowspeeder.jpg"
   },
   {
     "name": "TIE bomber",
@@ -127,6 +136,7 @@ const vehicles = [
     "consumables": "2 days",
     "vehicle_class": "space/planetary bomber",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/3/",
@@ -135,7 +145,8 @@ const vehicles = [
     "created": "2014-12-15T12:33:15.838000Z",
     "edited": "2014-12-22T18:21:15.667730Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/16/",
-    "id": 16
+    "id": 16,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/TIEbomber.jpg"
   },
   {
     "name": "AT-AT",
@@ -150,6 +161,7 @@ const vehicles = [
     "consumables": "unknown",
     "vehicle_class": "assault walker",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/3/",
@@ -158,7 +170,8 @@ const vehicles = [
     "created": "2014-12-15T12:38:25.937000Z",
     "edited": "2014-12-22T18:21:15.714673Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/18/",
-    "id": 18
+    "id": 18,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/AT-AT.jpg"
   },
   {
     "name": "AT-ST",
@@ -182,7 +195,8 @@ const vehicles = [
     "created": "2014-12-15T12:46:42.384000Z",
     "edited": "2014-12-22T18:21:15.761584Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/19/",
-    "id": 19
+    "id": 19,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/AT-ST.jpg"
   },
   {
     "name": "Storm IV Twin-Pod cloud car",
@@ -197,6 +211,7 @@ const vehicles = [
     "consumables": "1 day",
     "vehicle_class": "repulsorcraft",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/2/"
@@ -204,7 +219,8 @@ const vehicles = [
     "created": "2014-12-15T12:58:50.530000Z",
     "edited": "2014-12-22T18:21:15.783232Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/20/",
-    "id": 20
+    "id": 20,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/StormIVTwin-Podcloudcar.jpg"
   },
   {
     "name": "Sail barge",
@@ -219,6 +235,7 @@ const vehicles = [
     "consumables": "Live food tanks",
     "vehicle_class": "sail barge",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/3/"
@@ -226,7 +243,8 @@ const vehicles = [
     "created": "2014-12-18T10:44:14.217000Z",
     "edited": "2014-12-22T18:21:15.807906Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/24/",
-    "id": 24
+    "id": 24,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/Sailbarge.jpg"
   },
   {
     "name": "Bantha-II cargo skiff",
@@ -241,6 +259,7 @@ const vehicles = [
     "consumables": "1 day",
     "vehicle_class": "repulsorcraft cargo skiff",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/3/"
@@ -248,7 +267,8 @@ const vehicles = [
     "created": "2014-12-18T10:48:03.208000Z",
     "edited": "2014-12-22T18:21:15.845988Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/25/",
-    "id": 25
+    "id": 25,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/Bantha-IIcargoskiff.jpg"
   },
   {
     "name": "TIE/IN interceptor",
@@ -263,6 +283,7 @@ const vehicles = [
     "consumables": "2 days",
     "vehicle_class": "starfighter",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/3/"
@@ -270,7 +291,8 @@ const vehicles = [
     "created": "2014-12-18T10:50:28.225000Z",
     "edited": "2014-12-22T18:21:15.882388Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/26/",
-    "id": 26
+    "id": 26,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/TIEINinterceptor.jpg"
   },
   {
     "name": "Imperial Speeder Bike",
@@ -294,7 +316,8 @@ const vehicles = [
     "created": "2014-12-18T11:20:04.625000Z",
     "edited": "2014-12-22T18:21:15.920537Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/30/",
-    "id": 30
+    "id": 30,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/ImperialSpeederBike.jpg"
   },
   {
     "name": "Vulture Droid",
@@ -309,6 +332,7 @@ const vehicles = [
     "consumables": "none",
     "vehicle_class": "starfighter",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/4/",
@@ -317,7 +341,8 @@ const vehicles = [
     "created": "2014-12-19T17:09:53.584000Z",
     "edited": "2014-12-22T18:21:15.953870Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/33/",
-    "id": 33
+    "id": 33,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/VultureDroid.jpg"
   },
   {
     "name": "Multi-Troop Transport",
@@ -332,6 +357,7 @@ const vehicles = [
     "consumables": "unknown",
     "vehicle_class": "repulsorcraft",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/4/"
@@ -339,7 +365,8 @@ const vehicles = [
     "created": "2014-12-19T17:12:04.400000Z",
     "edited": "2014-12-22T18:21:15.975171Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/34/",
-    "id": 34
+    "id": 34,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/Multi-TroopTransport.jpg"
   },
   {
     "name": "Armored Assault Tank",
@@ -354,6 +381,7 @@ const vehicles = [
     "consumables": "unknown",
     "vehicle_class": "repulsorcraft",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/4/"
@@ -361,7 +389,8 @@ const vehicles = [
     "created": "2014-12-19T17:13:29.799000Z",
     "edited": "2014-12-22T18:21:15.984817Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/35/",
-    "id": 35
+    "id": 35,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/ArmoredAssaultTank.jpg"
   },
   {
     "name": "Single Trooper Aerial Platform",
@@ -376,6 +405,7 @@ const vehicles = [
     "consumables": "none",
     "vehicle_class": "repulsorcraft",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/4/"
@@ -383,7 +413,8 @@ const vehicles = [
     "created": "2014-12-19T17:15:09.511000Z",
     "edited": "2014-12-22T18:21:16.008594Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/36/",
-    "id": 36
+    "id": 36,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/SingleTrooperAerialPlatform.jpg"
   },
   {
     "name": "C-9979 landing craft",
@@ -398,6 +429,7 @@ const vehicles = [
     "consumables": "1 day",
     "vehicle_class": "landing craft",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/4/"
@@ -405,7 +437,8 @@ const vehicles = [
     "created": "2014-12-19T17:20:36.373000Z",
     "edited": "2014-12-22T18:21:16.033738Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/37/",
-    "id": 37
+    "id": 37,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/C-9979landingcraft.jpg"
   },
   {
     "name": "Tribubble bongo",
@@ -429,7 +462,8 @@ const vehicles = [
     "created": "2014-12-19T17:37:37.924000Z",
     "edited": "2014-12-22T18:21:16.072083Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/38/",
-    "id": 38
+    "id": 38,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/Tribubblebongo.jpg"
   },
   {
     "name": "Sith speeder",
@@ -452,7 +486,8 @@ const vehicles = [
     "created": "2014-12-20T10:09:56.095000Z",
     "edited": "2014-12-22T18:21:16.095041Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/42/",
-    "id": 42
+    "id": 42,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/Sithspeeder.jpg"
   },
   {
     "name": "Zephyr-G swoop bike",
@@ -475,7 +510,8 @@ const vehicles = [
     "created": "2014-12-20T16:24:16.026000Z",
     "edited": "2014-12-22T18:21:16.117652Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/44/",
-    "id": 44
+    "id": 44,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/Zephyr-Gswoopbike.jpg"
   },
   {
     "name": "Koro-2 Exodrive airspeeder",
@@ -498,7 +534,8 @@ const vehicles = [
     "created": "2014-12-20T17:17:33.526000Z",
     "edited": "2014-12-22T18:21:16.140018Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/45/",
-    "id": 45
+    "id": 45,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/Koro-2Exodriveairspeeder.jpg"
   },
   {
     "name": "XJ-6 airspeeder",
@@ -521,7 +558,8 @@ const vehicles = [
     "created": "2014-12-20T17:19:19.991000Z",
     "edited": "2014-12-22T18:21:16.150194Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/46/",
-    "id": 46
+    "id": 46,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/XJ-6airspeeder.jpg"
   },
   {
     "name": "LAAT/i",
@@ -536,6 +574,7 @@ const vehicles = [
     "consumables": "unknown",
     "vehicle_class": "gunship",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/5/",
@@ -544,7 +583,8 @@ const vehicles = [
     "created": "2014-12-20T18:01:21.014000Z",
     "edited": "2014-12-22T18:21:16.181363Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/50/",
-    "id": 50
+    "id": 50,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/LAATi.jpg"
   },
   {
     "name": "LAAT/c",
@@ -559,6 +599,7 @@ const vehicles = [
     "consumables": "unknown",
     "vehicle_class": "gunship",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/5/"
@@ -566,7 +607,8 @@ const vehicles = [
     "created": "2014-12-20T18:02:46.802000Z",
     "edited": "2014-12-22T18:21:16.229733Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/51/",
-    "id": 51
+    "id": 51,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/LAATc.jpg"
   },
   {
     "name": "Tsmeu-6 personal wheel bike",
@@ -589,7 +631,8 @@ const vehicles = [
     "created": "2014-12-20T19:43:54.870000Z",
     "edited": "2014-12-22T18:21:16.422662Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/60/",
-    "id": 60
+    "id": 60,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/Tsmeu-6personalwheelbike.jpg"
   },
   {
     "name": "Emergency Firespeeder",
@@ -604,6 +647,7 @@ const vehicles = [
     "consumables": "unknown",
     "vehicle_class": "fire suppression ship",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/6/"
@@ -611,7 +655,8 @@ const vehicles = [
     "created": "2014-12-20T19:50:58.559000Z",
     "edited": "2014-12-22T18:21:16.450655Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/62/",
-    "id": 62
+    "id": 62,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/EmergencyFirespeeder.jpg"
   },
   {
     "name": "Droid tri-fighter",
@@ -626,6 +671,7 @@ const vehicles = [
     "consumables": "none",
     "vehicle_class": "droid starfighter",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/6/"
@@ -633,7 +679,8 @@ const vehicles = [
     "created": "2014-12-20T20:05:19.992000Z",
     "edited": "2014-12-22T18:21:16.478901Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/67/",
-    "id": 67
+    "id": 67,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/Droidtri-fighter.jpg"
   },
   {
     "name": "Oevvaor jet catamaran",
@@ -648,6 +695,7 @@ const vehicles = [
     "consumables": "3 days",
     "vehicle_class": "airspeeder",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/6/"
@@ -655,7 +703,8 @@ const vehicles = [
     "created": "2014-12-20T20:20:53.931000Z",
     "edited": "2014-12-22T18:21:16.517049Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/69/",
-    "id": 69
+    "id": 69,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/Oevvaorjetcatamaran.jpg"
   },
   {
     "name": "Raddaugh Gnasp fluttercraft",
@@ -670,6 +719,7 @@ const vehicles = [
     "consumables": "none",
     "vehicle_class": "air speeder",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/6/"
@@ -677,7 +727,8 @@ const vehicles = [
     "created": "2014-12-20T20:21:55.648000Z",
     "edited": "2014-12-22T18:21:16.547708Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/70/",
-    "id": 70
+    "id": 70,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/RaddaughGnaspfluttercraft.jpg"
   },
   {
     "name": "Clone turbo tank",
@@ -692,6 +743,7 @@ const vehicles = [
     "consumables": "20 days",
     "vehicle_class": "wheeled walker",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/6/"
@@ -699,7 +751,8 @@ const vehicles = [
     "created": "2014-12-20T20:24:45.587000Z",
     "edited": "2014-12-22T18:21:16.571079Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/71/",
-    "id": 71
+    "id": 71,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/Cloneturbotank.jpg"
   },
   {
     "name": "Corporate Alliance tank droid",
@@ -714,6 +767,7 @@ const vehicles = [
     "consumables": "none",
     "vehicle_class": "droid tank",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/6/"
@@ -721,7 +775,8 @@ const vehicles = [
     "created": "2014-12-20T20:26:55.522000Z",
     "edited": "2014-12-22T18:21:16.612902Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/72/",
-    "id": 72
+    "id": 72,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/CorporateAlliancetankdroid.jpg"
   },
   {
     "name": "Droid gunship",
@@ -736,6 +791,7 @@ const vehicles = [
     "consumables": "none",
     "vehicle_class": "airspeeder",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/6/"
@@ -743,7 +799,8 @@ const vehicles = [
     "created": "2014-12-20T20:32:05.687000Z",
     "edited": "2014-12-22T18:21:16.643329Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/73/",
-    "id": 73
+    "id": 73,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/Droidgunship.jpg"
   },
   {
     "name": "AT-RT",
@@ -758,6 +815,7 @@ const vehicles = [
     "consumables": "1 day",
     "vehicle_class": "walker",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/6/"
@@ -765,7 +823,8 @@ const vehicles = [
     "created": "2014-12-20T20:47:49.189000Z",
     "edited": "2014-12-22T18:21:16.672821Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/76/",
-    "id": 76
+    "id": 76,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/AT-RT.jpg"
   },
   {
     "name": "AT-TE",
@@ -780,6 +839,7 @@ const vehicles = [
     "consumables": "21 days",
     "vehicle_class": "walker",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/5/",
@@ -788,7 +848,8 @@ const vehicles = [
     "created": "2014-12-20T18:10:07.560000Z",
     "edited": "2014-12-22T18:21:16.293771Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/53/",
-    "id": 53
+    "id": 53,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/AT-TE.jpg"
   },
   {
     "name": "SPHA",
@@ -803,6 +864,7 @@ const vehicles = [
     "consumables": "7 days",
     "vehicle_class": "walker",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/5/"
@@ -810,7 +872,8 @@ const vehicles = [
     "created": "2014-12-20T18:12:32.315000Z",
     "edited": "2014-12-22T18:21:16.311761Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/54/",
-    "id": 54
+    "id": 54,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/SPHA.jpg"
   },
   {
     "name": "Flitknot speeder",
@@ -833,7 +896,8 @@ const vehicles = [
     "created": "2014-12-20T18:15:20.312000Z",
     "edited": "2014-12-22T18:21:16.335005Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/55/",
-    "id": 55
+    "id": 55,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/Flitknotspeeder.jpg"
   },
   {
     "name": "Neimoidian shuttle",
@@ -848,6 +912,7 @@ const vehicles = [
     "consumables": "7 days",
     "vehicle_class": "transport",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/5/",
@@ -856,7 +921,8 @@ const vehicles = [
     "created": "2014-12-20T18:25:44.912000Z",
     "edited": "2014-12-22T18:21:16.366134Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/56/",
-    "id": 56
+    "id": 56,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/Neimoidianshuttle.jpg"
   },
   {
     "name": "Geonosian starfighter",
@@ -871,6 +937,7 @@ const vehicles = [
     "consumables": "unknown",
     "vehicle_class": "starfighter",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/5/"
@@ -878,8 +945,9 @@ const vehicles = [
     "created": "2014-12-20T18:34:12.541000Z",
     "edited": "2014-12-22T18:21:16.390980Z",
     "url": "https://swapiapi.herokuapp.com/api/vehicles/57/",
-    "id": 57
+    "id": 57,
+    "image": "https://swapiapi.herokuapp.com/api/images/vehicles/Geonosianstarfighter.jpg"
   }
-]
+];
 
 export default vehicles;

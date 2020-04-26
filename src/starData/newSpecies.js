@@ -20,7 +20,8 @@ const species = [
     "created": "2014-12-10T17:12:50.410000Z",
     "edited": "2014-12-20T21:36:42.146000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/5/",
-    "id": 5
+    "id": 5,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Hutt.jpg"
   },
   {
     "name": "Yoda's species",
@@ -46,7 +47,8 @@ const species = [
     "created": "2014-12-15T12:27:22.877000Z",
     "edited": "2014-12-20T21:36:42.148000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/6/",
-    "id": 6
+    "id": 6,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Yoda'sspecies.jpg"
   },
   {
     "name": "Trandoshan",
@@ -68,7 +70,8 @@ const species = [
     "created": "2014-12-15T13:07:47.704000Z",
     "edited": "2014-12-20T21:36:42.151000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/7/",
-    "id": 7
+    "id": 7,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Trandoshan.jpg"
   },
   {
     "name": "Mon Calamari",
@@ -90,7 +93,8 @@ const species = [
     "created": "2014-12-18T11:09:52.263000Z",
     "edited": "2014-12-20T21:36:42.153000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/8/",
-    "id": 8
+    "id": 8,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/MonCalamari.jpg"
   },
   {
     "name": "Ewok",
@@ -112,7 +116,8 @@ const species = [
     "created": "2014-12-18T11:22:00.285000Z",
     "edited": "2014-12-20T21:36:42.155000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/9/",
-    "id": 9
+    "id": 9,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Ewok.jpg"
   },
   {
     "name": "Sullustan",
@@ -134,7 +139,8 @@ const species = [
     "created": "2014-12-18T11:26:20.103000Z",
     "edited": "2014-12-20T21:36:42.157000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/10/",
-    "id": 10
+    "id": 10,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Sullustan.jpg"
   },
   {
     "name": "Neimodian",
@@ -156,7 +162,8 @@ const species = [
     "created": "2014-12-19T17:07:31.319000Z",
     "edited": "2014-12-20T21:36:42.160000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/11/",
-    "id": 11
+    "id": 11,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Neimodian.jpg"
   },
   {
     "name": "Gungan",
@@ -181,7 +188,8 @@ const species = [
     "created": "2014-12-19T17:30:37.341000Z",
     "edited": "2014-12-20T21:36:42.163000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/12/",
-    "id": 12
+    "id": 12,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Gungan.jpg"
   },
   {
     "name": "Toydarian",
@@ -204,7 +212,8 @@ const species = [
     "created": "2014-12-19T17:48:56.893000Z",
     "edited": "2014-12-20T21:36:42.165000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/13/",
-    "id": 13
+    "id": 13,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Toydarian.jpg"
   },
   {
     "name": "Dug",
@@ -226,7 +235,8 @@ const species = [
     "created": "2014-12-19T17:53:11.214000Z",
     "edited": "2014-12-20T21:36:42.167000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/14/",
-    "id": 14
+    "id": 14,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Dug.jpg"
   },
   {
     "name": "Twi'lek",
@@ -252,7 +262,8 @@ const species = [
     "created": "2014-12-20T09:48:02.406000Z",
     "edited": "2014-12-20T21:36:42.169000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/15/",
-    "id": 15
+    "id": 15,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Twi'lek.jpg"
   },
   {
     "name": "Aleena",
@@ -274,7 +285,8 @@ const species = [
     "created": "2014-12-20T09:53:16.481000Z",
     "edited": "2014-12-20T21:36:42.171000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/16/",
-    "id": 16
+    "id": 16,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Aleena.jpg"
   },
   {
     "name": "Vulptereen",
@@ -296,7 +308,8 @@ const species = [
     "created": "2014-12-20T09:57:33.128000Z",
     "edited": "2014-12-20T21:36:42.173000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/17/",
-    "id": 17
+    "id": 17,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Vulptereen.jpg"
   },
   {
     "name": "Xexto",
@@ -318,7 +331,8 @@ const species = [
     "created": "2014-12-20T10:02:13.915000Z",
     "edited": "2014-12-20T21:36:42.175000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/18/",
-    "id": 18
+    "id": 18,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Xexto.jpg"
   },
   {
     "name": "Toong",
@@ -341,7 +355,8 @@ const species = [
     "created": "2014-12-20T10:08:36.795000Z",
     "edited": "2014-12-20T21:36:42.177000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/19/",
-    "id": 19
+    "id": 19,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Toong.jpg"
   },
   {
     "name": "Cerean",
@@ -364,7 +379,8 @@ const species = [
     "created": "2014-12-20T10:15:33.765000Z",
     "edited": "2014-12-20T21:36:42.179000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/20/",
-    "id": 20
+    "id": 20,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Cerean.jpg"
   },
   {
     "name": "Nautolan",
@@ -386,7 +402,8 @@ const species = [
     "created": "2014-12-20T10:18:58.610000Z",
     "edited": "2014-12-20T21:36:42.181000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/21/",
-    "id": 21
+    "id": 21,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Nautolan.jpg"
   },
   {
     "name": "Zabrak",
@@ -409,7 +426,8 @@ const species = [
     "created": "2014-12-20T10:26:59.894000Z",
     "edited": "2014-12-20T21:36:42.183000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/22/",
-    "id": 22
+    "id": 22,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Zabrak.jpg"
   },
   {
     "name": "Tholothian",
@@ -432,7 +450,8 @@ const species = [
     "created": "2014-12-20T10:29:13.798000Z",
     "edited": "2014-12-20T21:36:42.186000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/23/",
-    "id": 23
+    "id": 23,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Tholothian.jpg"
   },
   {
     "name": "Iktotchi",
@@ -455,7 +474,8 @@ const species = [
     "created": "2014-12-20T10:32:13.046000Z",
     "edited": "2014-12-20T21:36:42.188000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/24/",
-    "id": 24
+    "id": 24,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Iktotchi.jpg"
   },
   {
     "name": "Quermian",
@@ -478,7 +498,8 @@ const species = [
     "created": "2014-12-20T10:34:50.827000Z",
     "edited": "2014-12-20T21:36:42.189000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/25/",
-    "id": 25
+    "id": 25,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Quermian.jpg"
   },
   {
     "name": "Kel Dor",
@@ -501,7 +522,8 @@ const species = [
     "created": "2014-12-20T10:49:21.692000Z",
     "edited": "2014-12-20T21:36:42.191000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/26/",
-    "id": 26
+    "id": 26,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/KelDor.jpg"
   },
   {
     "name": "Chagrian",
@@ -524,7 +546,8 @@ const species = [
     "created": "2014-12-20T10:53:28.795000Z",
     "edited": "2014-12-20T21:36:42.193000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/27/",
-    "id": 27
+    "id": 27,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Chagrian.jpg"
   },
   {
     "name": "Geonosian",
@@ -547,7 +570,8 @@ const species = [
     "created": "2014-12-20T16:40:45.618000Z",
     "edited": "2014-12-20T21:36:42.195000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/28/",
-    "id": 28
+    "id": 28,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Geonosian.jpg"
   },
   {
     "name": "Mirialan",
@@ -571,7 +595,8 @@ const species = [
     "created": "2014-12-20T16:46:48.290000Z",
     "edited": "2014-12-20T21:36:42.197000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/29/",
-    "id": 29
+    "id": 29,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Mirialan.jpg"
   },
   {
     "name": "Clawdite",
@@ -594,7 +619,8 @@ const species = [
     "created": "2014-12-20T16:57:46.171000Z",
     "edited": "2014-12-20T21:36:42.199000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/30/",
-    "id": 30
+    "id": 30,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Clawdite.jpg"
   },
   {
     "name": "Besalisk",
@@ -616,7 +642,8 @@ const species = [
     "created": "2014-12-20T17:28:28.821000Z",
     "edited": "2014-12-20T21:36:42.200000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/31/",
-    "id": 31
+    "id": 31,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Besalisk.jpg"
   },
   {
     "name": "Kaminoan",
@@ -639,7 +666,8 @@ const species = [
     "created": "2014-12-20T17:31:24.838000Z",
     "edited": "2014-12-20T21:36:42.202000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/32/",
-    "id": 32
+    "id": 32,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Kaminoan.jpg"
   },
   {
     "name": "Skakoan",
@@ -662,7 +690,8 @@ const species = [
     "created": "2014-12-20T17:53:54.515000Z",
     "edited": "2014-12-20T21:36:42.204000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/33/",
-    "id": 33
+    "id": 33,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Skakoan.jpg"
   },
   {
     "name": "Muun",
@@ -685,7 +714,8 @@ const species = [
     "created": "2014-12-20T17:58:19.088000Z",
     "edited": "2014-12-20T21:36:42.207000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/34/",
-    "id": 34
+    "id": 34,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Muun.jpg"
   },
   {
     "name": "Togruta",
@@ -708,7 +738,8 @@ const species = [
     "created": "2014-12-20T18:44:03.246000Z",
     "edited": "2014-12-20T21:36:42.209000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/35/",
-    "id": 35
+    "id": 35,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Togruta.jpg"
   },
   {
     "name": "Kaleesh",
@@ -730,7 +761,8 @@ const species = [
     "created": "2014-12-20T19:45:42.537000Z",
     "edited": "2014-12-20T21:36:42.210000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/36/",
-    "id": 36
+    "id": 36,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Kaleesh.jpg"
   },
   {
     "name": "Pau'an",
@@ -752,7 +784,8 @@ const species = [
     "created": "2014-12-20T20:35:06.777000Z",
     "edited": "2014-12-20T21:36:42.212000Z",
     "url": "https://swapiapi.herokuapp.com/api/species/37/",
-    "id": 37
+    "id": 37,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Pau'an.jpg"
   },
   {
     "name": "Wookiee",
@@ -779,7 +812,8 @@ const species = [
     "created": "2014-12-10T16:44:31.486000Z",
     "edited": "2015-01-30T21:23:03.074598Z",
     "url": "https://swapiapi.herokuapp.com/api/species/3/",
-    "id": 3
+    "id": 3,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Wookiee.jpg"
   },
   {
     "name": "Droid",
@@ -811,7 +845,8 @@ const species = [
     "created": "2014-12-10T15:16:16.259000Z",
     "edited": "2015-04-17T06:59:43.869528Z",
     "url": "https://swapiapi.herokuapp.com/api/species/2/",
-    "id": 2
+    "id": 2,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Droid.jpg"
   },
   {
     "name": "Human",
@@ -873,7 +908,8 @@ const species = [
     "created": "2014-12-10T13:52:11.567000Z",
     "edited": "2015-04-17T06:59:55.850671Z",
     "url": "https://swapiapi.herokuapp.com/api/species/1/",
-    "id": 1
+    "id": 1,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Human.jpg"
   },
   {
     "name": "Rodian",
@@ -895,7 +931,8 @@ const species = [
     "created": "2014-12-10T17:05:26.471000Z",
     "edited": "2016-07-19T13:27:03.156498Z",
     "url": "https://swapiapi.herokuapp.com/api/species/4/",
-    "id": 4
+    "id": 4,
+    "image": "https://swapiapi.herokuapp.com/api/images/species/Rodian.jpg"
   }
 ]
 

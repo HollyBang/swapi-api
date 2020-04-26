@@ -14,6 +14,7 @@ const starships = [
     "MGLT": "70",
     "starship_class": "landing craft",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/1/"
@@ -21,7 +22,8 @@ const starships = [
     "created": "2014-12-10T15:48:00.586000Z",
     "edited": "2014-12-22T17:35:44.431407Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/5/",
-    "id": 5
+    "id": 5,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/Sentinel-classlandingcraft.jpg"
   },
   {
     "name": "Death Star",
@@ -38,6 +40,7 @@ const starships = [
     "MGLT": "10",
     "starship_class": "Deep Space Mobile Battlestation",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/1/"
@@ -45,7 +48,8 @@ const starships = [
     "created": "2014-12-10T16:36:50.509000Z",
     "edited": "2014-12-22T17:35:44.452589Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/9/",
-    "id": 9
+    "id": 9,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/DeathStar.jpg"
   },
   {
     "name": "Millennium Falcon",
@@ -76,7 +80,8 @@ const starships = [
     "created": "2014-12-10T16:59:45.094000Z",
     "edited": "2014-12-22T17:35:44.464156Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/10/",
-    "id": 10
+    "id": 10,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/MillenniumFalcon.jpg"
   },
   {
     "name": "Y-wing",
@@ -93,6 +98,7 @@ const starships = [
     "MGLT": "80",
     "starship_class": "assault starfighter",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/3/",
@@ -102,7 +108,8 @@ const starships = [
     "created": "2014-12-12T11:00:39.817000Z",
     "edited": "2014-12-22T17:35:44.479706Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/11/",
-    "id": 11
+    "id": 11,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/Y-wing.jpg"
   },
   {
     "name": "X-wing",
@@ -132,7 +139,8 @@ const starships = [
     "created": "2014-12-12T11:19:05.340000Z",
     "edited": "2014-12-22T17:35:44.491233Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/12/",
-    "id": 12
+    "id": 12,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/X-wing.jpg"
   },
   {
     "name": "TIE Advanced x1",
@@ -157,7 +165,8 @@ const starships = [
     "created": "2014-12-12T11:21:32.991000Z",
     "edited": "2014-12-22T17:35:44.549047Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/13/",
-    "id": 13
+    "id": 13,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/TIEAdvancedx1.jpg"
   },
   {
     "name": "Executor",
@@ -174,6 +183,7 @@ const starships = [
     "MGLT": "40",
     "starship_class": "Star dreadnought",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/3/",
@@ -182,7 +192,8 @@ const starships = [
     "created": "2014-12-15T12:31:42.547000Z",
     "edited": "2014-12-22T17:35:44.638231Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/15/",
-    "id": 15
+    "id": 15,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/Executor.jpg"
   },
   {
     "name": "Slave 1",
@@ -208,7 +219,8 @@ const starships = [
     "created": "2014-12-15T13:00:56.332000Z",
     "edited": "2014-12-22T17:35:44.716273Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/21/",
-    "id": 21
+    "id": 21,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/Slave1.jpg"
   },
   {
     "name": "Imperial shuttle",
@@ -236,7 +248,8 @@ const starships = [
     "created": "2014-12-15T13:04:47.235000Z",
     "edited": "2014-12-22T17:35:44.795405Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/22/",
-    "id": 22
+    "id": 22,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/Imperialshuttle.jpg"
   },
   {
     "name": "EF76 Nebulon-B escort frigate",
@@ -253,6 +266,7 @@ const starships = [
     "MGLT": "40",
     "starship_class": "Escort ship",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/3/",
@@ -261,7 +275,8 @@ const starships = [
     "created": "2014-12-15T13:06:30.813000Z",
     "edited": "2014-12-22T17:35:44.848329Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/23/",
-    "id": 23
+    "id": 23,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/EF76Nebulon-Bescortfrigate.jpg"
   },
   {
     "name": "Calamari Cruiser",
@@ -278,6 +293,7 @@ const starships = [
     "MGLT": "60",
     "starship_class": "Star Cruiser",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/3/"
@@ -285,7 +301,8 @@ const starships = [
     "created": "2014-12-18T10:54:57.804000Z",
     "edited": "2014-12-22T17:35:44.957852Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/27/",
-    "id": 27
+    "id": 27,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/CalamariCruiser.jpg"
   },
   {
     "name": "A-wing",
@@ -310,7 +327,8 @@ const starships = [
     "created": "2014-12-18T11:16:34.542000Z",
     "edited": "2014-12-22T17:35:44.978754Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/28/",
-    "id": 28
+    "id": 28,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/A-wing.jpg"
   },
   {
     "name": "B-wing",
@@ -327,6 +345,7 @@ const starships = [
     "MGLT": "91",
     "starship_class": "Assault Starfighter",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/3/"
@@ -334,7 +353,8 @@ const starships = [
     "created": "2014-12-18T11:18:04.763000Z",
     "edited": "2014-12-22T17:35:45.011193Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/29/",
-    "id": 29
+    "id": 29,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/B-wing.jpg"
   },
   {
     "name": "Republic Cruiser",
@@ -351,6 +371,7 @@ const starships = [
     "MGLT": "unknown",
     "starship_class": "Space cruiser",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/4/"
@@ -358,7 +379,8 @@ const starships = [
     "created": "2014-12-19T17:01:31.488000Z",
     "edited": "2014-12-22T17:35:45.027308Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/31/",
-    "id": 31
+    "id": 31,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/RepublicCruiser.jpg"
   },
   {
     "name": "Naboo fighter",
@@ -386,7 +408,8 @@ const starships = [
     "created": "2014-12-19T17:39:17.582000Z",
     "edited": "2014-12-22T17:35:45.079452Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/39/",
-    "id": 39
+    "id": 39,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/Naboofighter.jpg"
   },
   {
     "name": "Naboo Royal Starship",
@@ -411,7 +434,8 @@ const starships = [
     "created": "2014-12-19T17:45:03.506000Z",
     "edited": "2014-12-22T17:35:45.091925Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/40/",
-    "id": 40
+    "id": 40,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/NabooRoyalStarship.jpg"
   },
   {
     "name": "Scimitar",
@@ -436,7 +460,8 @@ const starships = [
     "created": "2014-12-20T09:39:56.116000Z",
     "edited": "2014-12-22T17:35:45.105522Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/41/",
-    "id": 41
+    "id": 41,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/Scimitar.jpg"
   },
   {
     "name": "J-type diplomatic barge",
@@ -453,6 +478,7 @@ const starships = [
     "MGLT": "unknown",
     "starship_class": "Diplomatic barge",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/5/"
@@ -460,7 +486,8 @@ const starships = [
     "created": "2014-12-20T11:05:51.237000Z",
     "edited": "2014-12-22T17:35:45.124386Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/43/",
-    "id": 43
+    "id": 43,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/J-typediplomaticbarge.jpg"
   },
   {
     "name": "AA-9 Coruscant freighter",
@@ -477,6 +504,7 @@ const starships = [
     "MGLT": "unknown",
     "starship_class": "freighter",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/5/"
@@ -484,7 +512,8 @@ const starships = [
     "created": "2014-12-20T17:24:23.509000Z",
     "edited": "2014-12-22T17:35:45.135987Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/47/",
-    "id": 47
+    "id": 47,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/AA-9Coruscantfreighter.jpg"
   },
   {
     "name": "Jedi starfighter",
@@ -511,7 +540,8 @@ const starships = [
     "created": "2014-12-20T17:35:23.906000Z",
     "edited": "2014-12-22T17:35:45.147746Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/48/",
-    "id": 48
+    "id": 48,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/Jedistarfighter.jpg"
   },
   {
     "name": "H-type Nubian yacht",
@@ -536,7 +566,8 @@ const starships = [
     "created": "2014-12-20T17:46:46.847000Z",
     "edited": "2014-12-22T17:35:45.158969Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/49/",
-    "id": 49
+    "id": 49,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/H-typeNubianyacht.jpg"
   },
   {
     "name": "Star Destroyer",
@@ -553,6 +584,7 @@ const starships = [
     "MGLT": "60",
     "starship_class": "Star Destroyer",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/3/",
@@ -562,7 +594,8 @@ const starships = [
     "created": "2014-12-10T15:08:19.848000Z",
     "edited": "2014-12-22T17:35:44.410941Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/3/",
-    "id": 3
+    "id": 3,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/StarDestroyer.jpg"
   },
   {
     "name": "Trade Federation cruiser",
@@ -588,7 +621,8 @@ const starships = [
     "created": "2014-12-20T19:40:21.902000Z",
     "edited": "2014-12-22T17:35:45.195165Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/59/",
-    "id": 59
+    "id": 59,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/TradeFederationcruiser.jpg"
   },
   {
     "name": "Theta-class T-2c shuttle",
@@ -605,6 +639,7 @@ const starships = [
     "MGLT": "unknown",
     "starship_class": "transport",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/6/"
@@ -612,7 +647,8 @@ const starships = [
     "created": "2014-12-20T19:48:40.409000Z",
     "edited": "2014-12-22T17:35:45.208584Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/61/",
-    "id": 61
+    "id": 61,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/Theta-classT-2cshuttle.jpg"
   },
   {
     "name": "T-70 X-wing fighter",
@@ -637,7 +673,8 @@ const starships = [
     "created": "2015-04-17T06:58:50.614475Z",
     "edited": "2015-04-17T06:58:50.614528Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/77/",
-    "id": 77
+    "id": 77,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/T-70X-wingfighter.jpg"
   },
   {
     "name": "Rebel transport",
@@ -654,6 +691,7 @@ const starships = [
     "MGLT": "20",
     "starship_class": "Medium transport",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/3/",
@@ -662,7 +700,8 @@ const starships = [
     "created": "2014-12-15T12:34:52.264000Z",
     "edited": "2014-12-22T17:35:44.680838Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/17/",
-    "id": 17
+    "id": 17,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/Rebeltransport.jpg"
   },
   {
     "name": "Droid control ship",
@@ -679,6 +718,7 @@ const starships = [
     "MGLT": "unknown",
     "starship_class": "Droid control ship",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/5/",
@@ -688,7 +728,8 @@ const starships = [
     "created": "2014-12-19T17:04:06.323000Z",
     "edited": "2014-12-22T17:35:45.042900Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/32/",
-    "id": 32
+    "id": 32,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/Droidcontrolship.jpg"
   },
   {
     "name": "Republic Assault ship",
@@ -705,6 +746,7 @@ const starships = [
     "MGLT": "unknown",
     "starship_class": "assault ship",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/5/"
@@ -712,7 +754,8 @@ const starships = [
     "created": "2014-12-20T18:08:42.926000Z",
     "edited": "2014-12-22T17:35:45.171653Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/52/",
-    "id": 52
+    "id": 52,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/RepublicAssaultship.jpg"
   },
   {
     "name": "Solar Sailer",
@@ -729,6 +772,7 @@ const starships = [
     "MGLT": "unknown",
     "starship_class": "yacht",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/5/"
@@ -736,7 +780,8 @@ const starships = [
     "created": "2014-12-20T18:37:56.969000Z",
     "edited": "2014-12-22T17:35:45.183075Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/58/",
-    "id": 58
+    "id": 58,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/SolarSailer.jpg"
   },
   {
     "name": "Republic attack cruiser",
@@ -753,6 +798,7 @@ const starships = [
     "MGLT": "unknown",
     "starship_class": "star destroyer",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/6/"
@@ -760,7 +806,8 @@ const starships = [
     "created": "2014-12-20T19:52:56.232000Z",
     "edited": "2014-12-22T17:35:45.224540Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/63/",
-    "id": 63
+    "id": 63,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/Republicattackcruiser.jpg"
   },
   {
     "name": "Naboo star skiff",
@@ -786,7 +833,8 @@ const starships = [
     "created": "2014-12-20T19:55:15.396000Z",
     "edited": "2014-12-22T17:35:45.258859Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/64/",
-    "id": 64
+    "id": 64,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/Naboostarskiff.jpg"
   },
   {
     "name": "Jedi Interceptor",
@@ -812,7 +860,8 @@ const starships = [
     "created": "2014-12-20T19:56:57.468000Z",
     "edited": "2014-12-22T17:35:45.272349Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/65/",
-    "id": 65
+    "id": 65,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/JediInterceptor.jpg"
   },
   {
     "name": "arc-170",
@@ -829,6 +878,7 @@ const starships = [
     "MGLT": "100",
     "starship_class": "starfighter",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/6/"
@@ -836,7 +886,8 @@ const starships = [
     "created": "2014-12-20T20:03:48.603000Z",
     "edited": "2014-12-22T17:35:45.287214Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/66/",
-    "id": 66
+    "id": 66,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/arc-170.jpg"
   },
   {
     "name": "Banking clan frigte",
@@ -853,6 +904,7 @@ const starships = [
     "MGLT": "unknown",
     "starship_class": "cruiser",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/6/"
@@ -860,7 +912,8 @@ const starships = [
     "created": "2014-12-20T20:07:11.538000Z",
     "edited": "2014-12-22T17:35:45.361585Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/68/",
-    "id": 68
+    "id": 68,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/Bankingclanfrigte.jpg"
   },
   {
     "name": "Belbullab-22 starfighter",
@@ -886,7 +939,8 @@ const starships = [
     "created": "2014-12-20T20:38:05.031000Z",
     "edited": "2014-12-22T17:35:45.381900Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/74/",
-    "id": 74
+    "id": 74,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/Belbullab-22starfighter.jpg"
   },
   {
     "name": "V-wing",
@@ -903,6 +957,7 @@ const starships = [
     "MGLT": "unknown",
     "starship_class": "starfighter",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/6/"
@@ -910,7 +965,8 @@ const starships = [
     "created": "2014-12-20T20:43:04.349000Z",
     "edited": "2014-12-22T17:35:45.396711Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/75/",
-    "id": 75
+    "id": 75,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/V-wing.jpg"
   },
   {
     "name": "CR90 corvette",
@@ -927,6 +983,7 @@ const starships = [
     "MGLT": "60",
     "starship_class": "corvette",
     "pilots": [
+      
     ],
     "films": [
       "https://swapiapi.herokuapp.com/api/films/6/",
@@ -936,8 +993,9 @@ const starships = [
     "created": "2014-12-10T14:20:33.369000Z",
     "edited": "2014-12-22T17:35:45.408368Z",
     "url": "https://swapiapi.herokuapp.com/api/starships/2/",
-    "id": 2
+    "id": 2,
+    "image": "https://swapiapi.herokuapp.com/api/images/starships/CR90corvette.jpg"
   }
-]
+];
 
 export default starships;
