@@ -19,7 +19,8 @@ var films = [{
   "created": "2014-12-10T14:23:31.880000Z",
   "edited": "2015-04-11T09:46:52.774897Z",
   "url": "https://swapiapi.herokuapp.com/api/films/1/",
-  "id": 1
+  "id": 1,
+  "image": "https://swapiapi.herokuapp.com/api/images/films/4.jpg"
 }, {
   "title": "Attack of the Clones",
   "episode_id": 2,
@@ -35,7 +36,8 @@ var films = [{
   "created": "2014-12-20T10:57:57.886000Z",
   "edited": "2015-04-11T09:45:01.623982Z",
   "url": "https://swapiapi.herokuapp.com/api/films/5/",
-  "id": 5
+  "id": 5,
+  "image": "https://swapiapi.herokuapp.com/api/images/films/2.jpg"
 }, {
   "title": "The Phantom Menace",
   "episode_id": 1,
@@ -51,7 +53,8 @@ var films = [{
   "created": "2014-12-19T16:52:55.740000Z",
   "edited": "2015-04-11T09:45:18.689301Z",
   "url": "https://swapiapi.herokuapp.com/api/films/4/",
-  "id": 4
+  "id": 4,
+  "image": "https://swapiapi.herokuapp.com/api/images/films/1.jpg"
 }, {
   "title": "Revenge of the Sith",
   "episode_id": 3,
@@ -67,7 +70,8 @@ var films = [{
   "created": "2014-12-20T18:49:38.403000Z",
   "edited": "2015-04-11T09:45:44.862122Z",
   "url": "https://swapiapi.herokuapp.com/api/films/6/",
-  "id": 6
+  "id": 6,
+  "image": "https://swapiapi.herokuapp.com/api/images/films/3.jpg"
 }, {
   "title": "Return of the Jedi",
   "episode_id": 6,
@@ -83,7 +87,8 @@ var films = [{
   "created": "2014-12-18T10:39:33.255000Z",
   "edited": "2015-04-11T09:46:05.220365Z",
   "url": "https://swapiapi.herokuapp.com/api/films/3/",
-  "id": 3
+  "id": 3,
+  "image": "https://swapiapi.herokuapp.com/api/images/films/6.jpg"
 }, {
   "title": "The Empire Strikes Back",
   "episode_id": 5,
@@ -99,7 +104,8 @@ var films = [{
   "created": "2014-12-12T11:26:24.656000Z",
   "edited": "2015-04-11T09:46:31.433607Z",
   "url": "https://swapiapi.herokuapp.com/api/films/2/",
-  "id": 2
+  "id": 2,
+  "image": "https://swapiapi.herokuapp.com/api/images/films/5.jpg"
 }, {
   "title": "The Force Awakens",
   "episode_id": 7,
@@ -115,7 +121,8 @@ var films = [{
   "created": "2015-04-17T06:51:30.504780Z",
   "edited": "2015-12-17T14:31:47.617768Z",
   "url": "https://swapiapi.herokuapp.com/api/films/7/",
-  "id": 7
+  "id": 7,
+  "image": "https://swapiapi.herokuapp.com/api/images/films/7.jpg"
 }];
 var _default = films;
 exports["default"] = _default;
