@@ -2,7 +2,15 @@
  * @module routers/people
  * @requires express
  */
+// (req, res) => {
+  
+//   filmsData.forEach((item)=> {
+//     const name = item.episode_id;
+//     item.image = `https://swapiapi.herokuapp.com/api/images/films/${name}.jpg`;
+//   })
 
+//   res.send(filmsData);
+// }
 /**
  * express module
  * @const
