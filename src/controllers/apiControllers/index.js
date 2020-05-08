@@ -21,19 +21,19 @@ const getRouteName = (routePath) => {
 export const mainController = (req, res) => {
   const routeName = getRouteName(req.path);
   const count = Number(req.query.count);
-  const page = Number(req.query.page);
+  let page = Number(req.query.page);
   if(count) {
     res.send(dataConfig[routeName].slice(0, count));
     return;
   }
   if(page) {
-    const pageCount = Math.ceil(dataConfig[routeName].length / 9);
+    const pageCount = Math.ceil(dataConfig[routeName].length / 5);
     if (page > pageCount) page = pageCount;
-  
+
     res.send({
       page,
       pageCount,
-      data: dataConfig[routeName].slice(page * 9 - 9, page * 9)
+      data: dataConfig[routeName].slice(page * 5 - 5, page * 5)
     })
     return;
   }
@@ -43,7 +43,7 @@ export const mainController = (req, res) => {
 export const getIdController = (req, res) => {
   const routeName = getRouteName(req.path);
   const ids =  req.params.id.split(',').map(Number);
-  
+
   const data = dataConfig[routeName].filter(dataItem => {
     if(ids.indexOf(dataItem.id) !== -1) return true;
   });
